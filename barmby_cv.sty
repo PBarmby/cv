@@ -10,6 +10,7 @@
 \usepackage{hyperref,fancyhdr,enumitem,color}
 \usepackage[text={7.5in,9.5in},centering]{geometry}
 \usepackage[compact,small,sf,bf]{titlesec}
+\usepackage{lastpage}
 
 \RaggedRight
 \sloppy
@@ -17,7 +18,7 @@
 % Header and footer
 \pagestyle{fancy}
 \lhead{\sf  \@name, \today}
-\rhead{\sf\thepage}
+\rhead{\sf\thepage/\pageref{LastPage}}
 \cfoot{}
 
 

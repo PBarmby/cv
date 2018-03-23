@@ -9,7 +9,7 @@
 %% ---------------------------------------------------------------
 %% 
 
-\ProvidesFile{chem-acs.bbx}[2013/10/09 v1.1l biblatex bibliography style]
+\ProvidesFile{astro-pb.bbx}[2013/10/09 v1.1l biblatex bibliography style]
 
 % Load the standard style to avoid copy-pasting unnecessary material
 \RequireBibliographyStyle{numeric-comp}
@@ -18,6 +18,7 @@
 \newtoggle{bbx:articletitle}
 \newtoggle{bbx:chaptertitle}
 \newtoggle{bbx:pageranges}
+\newtoggle{bbx:printroles}
 \DeclareBibliographyOption{articletitle}[true]{%
   \settoggle{bbx:articletitle}{#1}%
 }
@@ -27,6 +28,10 @@
 \DeclareBibliographyOption{pageranges}[true]{%
   \settoggle{bbx:pageranges}{#1}%
 }
+\DeclareBibliographyOption{printroles}[true]{%
+  \settoggle{bbx:printroles}{#1}%
+}
+
 
 \DeclareBibliographyOption{biblabel}{%
   \ifstrequal{#1}{plain}
@@ -89,6 +94,7 @@
 \DeclareFieldFormat[article]{journaltitle}{#1}
 \DeclareFieldFormat[article]{year}{#1}
 \DeclareFieldFormat[article]{title}{\mkbibquote{#1\addcomma}}
+\DeclareFieldFormat[article]{addendum}{\ \mkbibemph{Role: {#1}}}
 
 
 % Simple modifications to punctuation, etc.
@@ -326,11 +332,16 @@
   \newunit\newblock
   \usebibmacro{doi+eprint+url}%
   \newunit\newblock
-  \usebibmacro{addendum+pubstate}%
   \setunit{\bibpagerefpunct}\newblock
   \usebibmacro{pageref}%
   \usebibmacro{finentry}%
-}
+ \iftoggle{bbx:printroles}
+    {%
+      \usebibmacro{addendum+pubstate}%
+      \newunit%
+    }%
+    {}%  
+  }
 
 \DeclareBibliographyDriver{book}{%
   \usebibmacro{bibindex}%

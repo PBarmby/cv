@@ -145,10 +145,8 @@
       \strng{namehash}{c156e228bbdc36113fe16295c638b7ac}
       \strng{fullhash}{a430974007d939a1ff5d33ec54ec1503}
       \field{sortinit}{2}
-      \field{labelyear}{2018}
-      \field{labelmonth}{02}
-      \field{datelabelsource}{}
       \field{labeltitle}{{A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE).I. Introduction to the Survey}}
+      \field{addendum}{(6)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{A\&A}
       \field{month}{02}
@@ -158,7 +156,7 @@
       \verb{eprint}
       \verb 1802.02829
       \endverb
-      \keyw{ref,ar18}
+      \keyw{ref,ar17}
     \endentry
     \entry{2018arXiv180102634T}{article}{}
       \true{morelabelname}
@@ -172,10 +170,8 @@
       \strng{namehash}{a308b9c28fce408939f0448c9b3ac121}
       \strng{fullhash}{a308b9c28fce408939f0448c9b3ac121}
       \field{sortinit}{2}
-      \field{labelyear}{2018}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The Astropy Project: Building an inclusive, open-science project and status of the v2.0 core package}}
+      \field{addendum}{(5, 7)}
       \field{eprintclass}{astro-ph.IM}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ArXiv e-prints}
@@ -186,7 +182,7 @@
       \verb{eprint}
       \verb 1801.02634
       \endverb
-      \keyw{submit,ar18}
+      \keyw{ref,ar17}
     \endentry
     \entry{2018vulic}{article}{}
       \name{labelname}{3}{}{%
@@ -202,10 +198,8 @@
       \strng{namehash}{cd94b5d21d83f5d624e693240fed2900}
       \strng{fullhash}{cd94b5d21d83f5d624e693240fed2900}
       \field{sortinit}{2}
-      \field{labelyear}{2018}
-      \field{labelmonth}{02}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Milky Way globular cluster metallicity and low-mass X-ray binaries: the red giant influence}}
+      \field{addendum}{(2, 5)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{MNRAS}
       \field{month}{02}
@@ -219,7 +213,7 @@
       \verb{eprint}
       \verb 1711.03093
       \endverb
-      \keyw{Hertzsprung-Russell and colour-magnitude diagrams,globular clusters: general,galaxies: individual,X-rays: binaries,ref}
+      \keyw{Hertzsprung-Russell and colour-magnitude diagrams,globular clusters: general,galaxies: individual,X-rays: binaries,ref,ar16}
     \endentry
     \entry{barmby17a}{inproceedings}{}
       \name{labelname}{1}{}{%
@@ -234,15 +228,13 @@
       \strng{namehash}{47a09f103194d3d80bfaf75bef908949}
       \strng{fullhash}{47a09f103194d3d80bfaf75bef908949}
       \field{sortinit}{2}
-      \field{labelyear}{2017}
-      \field{labelmonth}{08}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The physics of nearby galaxies}}
-      \field{booktitle}{CAM Graduate Student Physics Conference (invited talk)}
+      \field{booktitle}{CAM Graduate Student Physics Conference}
       \field{month}{08}
+      \field{pubstate}{invited talk}
       \field{title}{{The physics of nearby galaxies}}
       \field{year}{2017}
-      \keyw{unref,ar18}
+      \keyw{unref}
     \endentry
     \entry{barmby17b}{inproceedings}{}
       \name{labelname}{5}{}{%
@@ -265,15 +257,13 @@
       \strng{namehash}{02354d1446a67dd68115ada13063da40}
       \strng{fullhash}{02354d1446a67dd68115ada13063da40}
       \field{sortinit}{2}
-      \field{labelyear}{2017}
-      \field{labelmonth}{07}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Andromeda IR-X}}
       \field{booktitle}{Large Surveys of the Andromeda Galaxy}
       \field{month}{07}
+      \field{pubstate}{contributed talk}
       \field{title}{{Andromeda IR-X}}
       \field{year}{2017}
-      \keyw{unref,ar18}
+      \keyw{unref,ar17}
     \endentry
     \entry{2017kiar}{article}{}
       \name{labelname}{3}{}{%
@@ -289,10 +279,8 @@
       \strng{namehash}{b34265009b264f6cd7143831a764b67d}
       \strng{fullhash}{b34265009b264f6cd7143831a764b67d}
       \field{sortinit}{2}
-      \field{labelyear}{2017}
-      \field{labelmonth}{11}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Deconstructing a galaxy: colour distributions of point sources in Messier 83}}
+      \field{addendum}{(2, 3, 4)}
       \field{journaltitle}{MNRAS}
       \field{month}{11}
       \field{title}{{Deconstructing a galaxy: colour distributions of point sources in Messier 83}}
@@ -302,7 +290,7 @@
       \verb{doi}
       \verb 10.1093/mnras/stx2037
       \endverb
-      \keyw{methods: statistical,catalogues,galaxies: individual: M83,galaxies: photometry,galaxies: stellar content,ref}
+      \keyw{methods: statistical,catalogues,galaxies: individual: M83,galaxies: photometry,galaxies: stellar content,ref,ar17}
     \endentry
     \entry{kiar17}{inproceedings}{}
       \name{labelname}{2}{}{%
@@ -319,15 +307,13 @@
       \strng{namehash}{ed466033e60c1ccbf0c56624f0563824}
       \strng{fullhash}{ed466033e60c1ccbf0c56624f0563824}
       \field{sortinit}{2}
-      \field{labelyear}{2017}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Deconstructing a galaxy: colour distributions of point sources in Messier 83 }}
       \field{booktitle}{68th International Astronautical Congress}
       \field{month}{09}
+      \field{pubstate}{poster}
       \field{title}{{Deconstructing a galaxy: colour distributions of point sources in Messier 83 }}
       \field{year}{2017}
-      \keyw{unref,ar18}
+      \keyw{unref,ar17}
     \endentry
     \entry{2017mahajan}{article}{}
       \name{labelname}{6}{}{%
@@ -349,16 +335,14 @@
       \strng{namehash}{6eab5f8372529e3aa08919d047ecc97a}
       \strng{fullhash}{6eab5f8372529e3aa08919d047ecc97a}
       \field{sortinit}{2}
-      \field{labelyear}{2017}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The Star Formation Reference Survey III. A multi-wavelength view of dust and star formation in nearby galaxies}}
+      \field{addendum}{(3, 4)}
       \field{journaltitle}{ApJ}
       \field{month}{05}
       \field{title}{{The Star Formation Reference Survey III. A multi-wavelength view of dust and star formation in nearby galaxies}}
       \field{year}{2017}
       \field{pages}{submitted}
-      \keyw{submit,ar17}
+      \keyw{submit,ar16}
     \endentry
     \entry{2017jingle}{article}{}
       \true{morelabelname}
@@ -372,16 +356,14 @@
       \strng{namehash}{701bdcc27919e778e9af29c1e9084191}
       \strng{fullhash}{701bdcc27919e778e9af29c1e9084191}
       \field{sortinit}{2}
-      \field{labelyear}{2017}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{JINGLE, a JCMT legacy survey of dust and gas for galaxy evolution studies: I. Survey overview and first results}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{MNRAS}
       \field{month}{09}
       \field{title}{{JINGLE, a JCMT legacy survey of dust and gas for galaxy evolution studies: I. Survey overview and first results}}
       \field{year}{2017}
       \field{pages}{submitted}
-      \keyw{submit,ar18}
+      \keyw{submit,ar17}
     \endentry
     \entry{arnason16}{inproceedings}{}
       \name{labelname}{4}{}{%
@@ -402,12 +384,10 @@
       \strng{namehash}{ae9fa2bbb662df65479c8c401ca69bc1}
       \strng{fullhash}{ae9fa2bbb662df65479c8c401ca69bc1}
       \field{sortinit}{2}
-      \field{labelyear}{2016}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Identifying X-ray Binaries in the Sculptor Dwarf Spheroidal Galaxy}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{06}
+      \field{pubstate}{poster}
       \field{title}{{Identifying X-ray Binaries in the Sculptor Dwarf Spheroidal Galaxy}}
       \field{year}{2016}
       \keyw{unref,ar16}
@@ -427,12 +407,10 @@
       \strng{namehash}{2588e73101cd4824062155fad565fba8}
       \strng{fullhash}{2588e73101cd4824062155fad565fba8}
       \field{sortinit}{2}
-      \field{labelyear}{2016}
-      \field{labelmonth}{03}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Stellar populations in the outskirts of M31: the mid-infrared view}}
       \field{booktitle}{IAU Symposium 321: Formation and Evolution of Galaxy Outskirts}
       \field{month}{03}
+      \field{pubstate}{contributed talk}
       \field{title}{{Stellar populations in the outskirts of M31: the mid-infrared view}}
       \field{year}{2016}
       \keyw{unref,ar16}
@@ -460,12 +438,10 @@
       \strng{namehash}{70cccd12c2bac79c1425303ca74f972f}
       \strng{fullhash}{70cccd12c2bac79c1425303ca74f972f}
       \field{sortinit}{2}
-      \field{labelyear}{2016}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Pieces of Andromeda: machine-learning and big data techniques applied to M31}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{06}
+      \field{pubstate}{contributed talk}
       \field{title}{{Pieces of Andromeda: machine-learning and big data techniques applied to M31}}
       \field{year}{2016}
       \keyw{unref,ar16}
@@ -498,10 +474,8 @@
       \strng{namehash}{7be6ce00b734dca9bcf7bcf84cbd5554}
       \strng{fullhash}{7be6ce00b734dca9bcf7bcf84cbd5554}
       \field{sortinit}{2}
-      \field{labelyear}{2016}
-      \field{labelmonth}{10}
-      \field{datelabelsource}{}
       \field{labeltitle}{{{T}en {S}imple {R}ules for {D}igital {D}ata {S}torage}}
+      \field{addendum}{(3)}
       \field{journaltitle}{PLoS Comput. Biol.}
       \field{month}{10}
       \field{number}{10}
@@ -529,12 +503,10 @@
       \strng{namehash}{ed466033e60c1ccbf0c56624f0563824}
       \strng{fullhash}{ed466033e60c1ccbf0c56624f0563824}
       \field{sortinit}{2}
-      \field{labelyear}{2016}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Clustering a Nearby Galaxy}}
       \field{booktitle}{ASTRO 2016: 17th Canadian Astronautics \& Space Institute conference}
       \field{month}{05}
+      \field{pubstate}{poster}
       \field{title}{{Clustering a Nearby Galaxy}}
       \field{year}{2016}
       \keyw{unref,ar16}
@@ -555,10 +527,8 @@
       \strng{namehash}{111a2e9c17e08dba17061459a9c3d947}
       \strng{fullhash}{111a2e9c17e08dba17061459a9c3d947}
       \field{sortinit}{2}
-      \field{labelyear}{2016}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The dustier early-type galaxies deviate from late-type galaxies' scaling relations}}
+      \field{addendum}{(2, 3)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{MNRAS}
       \field{month}{09}
@@ -606,10 +576,8 @@
       \strng{namehash}{f64ab2d8428d842c0210ee7cbd3004b4}
       \strng{fullhash}{f64ab2d8428d842c0210ee7cbd3004b4}
       \field{sortinit}{2}
-      \field{labelyear}{2016}
-      \field{labelmonth}{03}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The JCMT nearby galaxies legacy survey - X. Environmental effects on the molecular gas and star formation properties of spiral galaxies}}
+      \field{addendum}{(5, 6)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{MNRAS}
       \field{month}{03}
@@ -651,10 +619,8 @@
       \strng{namehash}{fc07a120ccb1bec1840da104e039c765}
       \strng{fullhash}{fc07a120ccb1bec1840da104e039c765}
       \field{sortinit}{2}
-      \field{labelyear}{2016}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The extended disc and halo of the Andromeda galaxy observed with Spitzer-IRAC}}
+      \field{addendum}{(2, 3, 4)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{MNRAS}
       \field{month}{06}
@@ -684,10 +650,8 @@
       \strng{namehash}{1569bf719811f4254146676028372aa7}
       \strng{fullhash}{1569bf719811f4254146676028372aa7}
       \field{sortinit}{2}
-      \field{labelyear}{2016}
-      \field{labelmonth}{03}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Star formation laws in the Andromeda galaxy: gas, stars, metals and the surface density of star formation}}
+      \field{addendum}{(2, 3, 4)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{MNRAS}
       \field{month}{03}
@@ -717,11 +681,8 @@
       \strng{namehash}{bf806f3bab69d8d738a73e24666c13c3}
       \strng{fullhash}{bf806f3bab69d8d738a73e24666c13c3}
       \field{sortinit}{2}
-      \field{extrayear}{1}
-      \field{labelyear}{2016}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Classifying galaxy spectra at $0.5< z <1$: an unsupervised approach}}
+      \field{addendum}{(2, 3, 4)}
       \field{journaltitle}{MNRAS}
       \field{month}{06}
       \field{title}{{Classifying galaxy spectra at $0.5< z <1$: an unsupervised approach}}
@@ -746,13 +707,10 @@
       \strng{namehash}{bf806f3bab69d8d738a73e24666c13c3}
       \strng{fullhash}{bf806f3bab69d8d738a73e24666c13c3}
       \field{sortinit}{2}
-      \field{extrayear}{2}
-      \field{labelyear}{2016}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Mining in nearby galaxies}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{06}
+      \field{pubstate}{contributed talk}
       \field{title}{{Mining in nearby galaxies}}
       \field{year}{2016}
       \keyw{unref,ar16}
@@ -776,12 +734,10 @@
       \strng{namehash}{9f42fbf4284398e059c22f30ee8d497f}
       \strng{fullhash}{9f42fbf4284398e059c22f30ee8d497f}
       \field{sortinit}{2}
-      \field{labelyear}{2016}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Data mining in nearby galaxies}}
       \field{booktitle}{Statistical Challenges in Modern Astronomy VI}
       \field{month}{06}
+      \field{pubstate}{poster}
       \field{title}{{Data mining in nearby galaxies}}
       \field{year}{2016}
       \keyw{unref,ar16}
@@ -800,10 +756,8 @@
       \strng{namehash}{d319988b4a09c07fd942176d59b877af}
       \strng{fullhash}{d319988b4a09c07fd942176d59b877af}
       \field{sortinit}{2}
-      \field{labelyear}{2016}
-      \field{labelmonth}{10}
-      \field{datelabelsource}{}
       \field{labeltitle}{{X-rays beware: the deepest Chandra catalogue of point sources in M31}}
+      \field{addendum}{(2, 3)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{MNRAS}
       \field{month}{10}
@@ -845,9 +799,6 @@
       \strng{namehash}{f4f6fc09961f7f8fb6c2c0c99fd58f96}
       \strng{fullhash}{f4f6fc09961f7f8fb6c2c0c99fd58f96}
       \field{sortinit}{2}
-      \field{labelyear}{2015}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The M31 nucleus in the mid-infrared}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{01}
@@ -899,9 +850,6 @@
       \strng{namehash}{e7285526550e693f3ddf180b6f96975a}
       \strng{fullhash}{e7285526550e693f3ddf180b6f96975a}
       \field{sortinit}{2}
-      \field{labelyear}{2015}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{{DUSTiNGS Reveals Dust Production in Very Metal Poor Galaxies}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{01}
@@ -953,10 +901,8 @@
       \strng{namehash}{49e4c40df4cc03039b6d4aaf838f16db}
       \strng{fullhash}{49e4c40df4cc03039b6d4aaf838f16db}
       \field{sortinit}{2}
-      \field{labelyear}{2015}
-      \field{labelmonth}{02}
-      \field{datelabelsource}{}
       \field{labeltitle}{{An Infrared Census of Dust in Nearby Galaxies with Spitzer (DUSTiNGS). II. Discovery of Metal-poor Dusty AGB Stars}}
+      \field{addendum}{(5, 6)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
       \field{month}{02}
@@ -1012,10 +958,8 @@
       \strng{namehash}{86feb9ed42433614fbfb0e2dd6868d4d}
       \strng{fullhash}{86feb9ed42433614fbfb0e2dd6868d4d}
       \field{sortinit}{2}
-      \field{labelyear}{2015}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{{An Infrared Census of Dust in nearby Galaxies with Spitzer (DUSTiNGS). I. Overview}}
+      \field{addendum}{(5, 6)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJS}
       \field{month}{01}
@@ -1057,10 +1001,8 @@
       \strng{namehash}{d69d47471b4560d25e70c66065cbc905}
       \strng{fullhash}{d69d47471b4560d25e70c66065cbc905}
       \field{sortinit}{2}
-      \field{labelyear}{2015}
-      \field{labelmonth}{11}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Mid-infrared spectroscopy of the Andromeda galaxy}}
+      \field{addendum}{(2, 3, 4)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{MNRAS}
       \field{month}{11}
@@ -1134,10 +1076,8 @@
       \strng{namehash}{a5238c49fdf88dfcf388a99b6177ccf8}
       \strng{fullhash}{b18606bfd0305520a53ed82dd0fe55b1}
       \field{sortinit}{2}
-      \field{labelyear}{2015}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{AEGIS-X: Deep Chandra Imaging of the Central Groth Strip}}
+      \field{addendum}{(5, 6)}
       \field{eprintclass}{astro-ph.HE}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJS}
@@ -1174,12 +1114,10 @@
       \strng{namehash}{62e30358d6023ff2b138485b54cb2f2a}
       \strng{fullhash}{62e30358d6023ff2b138485b54cb2f2a}
       \field{sortinit}{2}
-      \field{labelyear}{2015}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Extending the Surface Brightness Profile of the Andromeda Galaxy Using Spitzer-IRAC Observations}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{01}
+      \field{pubstate}{poster}
       \field{title}{{Extending the Surface Brightness Profile of the Andromeda Galaxy Using Spitzer-IRAC Observations}}
       \field{volume}{225}
       \field{year}{2015}
@@ -1203,12 +1141,10 @@
       \strng{namehash}{ad37c15cb1f3d14e0ee7f1ee5fae358a}
       \strng{fullhash}{ad37c15cb1f3d14e0ee7f1ee5fae358a}
       \field{sortinit}{2}
-      \field{labelyear}{2015}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Over `1001011000' Chandra X-ray Point Sources in M31: Into the Faint Abyss}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{05}
+      \field{pubstate}{contributed talk}
       \field{title}{{Over `1001011000' Chandra X-ray Point Sources in M31: Into the Faint Abyss}}
       \field{year}{2015}
       \keyw{unref}
@@ -1230,12 +1166,10 @@
       \strng{namehash}{689a93eba79dfaaffe7a937d9d2b8104}
       \strng{fullhash}{689a93eba79dfaaffe7a937d9d2b8104}
       \field{sortinit}{2}
-      \field{labelyear}{2014}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Imagecube: an astronomical Python package for organizing and processing multi-wavelength astronomical data}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{06}
+      \field{pubstate}{poster}
       \field{title}{{Imagecube: an astronomical Python package for organizing and processing multi-wavelength astronomical data}}
       \field{year}{2014}
       \keyw{unref}
@@ -1280,9 +1214,6 @@
       \strng{namehash}{f64e6814e005172eb20581e9fa2615bc}
       \strng{fullhash}{f64e6814e005172eb20581e9fa2615bc}
       \field{sortinit}{2}
-      \field{labelyear}{2014}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Discovery of Extreme AGB Stars in the Dwarf Galaxies of the Local Group: First Results from the DUST In Nearby Galaxies with Spitzer (DUSTINGS) program}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{01}
@@ -1315,12 +1246,10 @@
       \strng{namehash}{88aa533aebc374fe3a0131acd09167e1}
       \strng{fullhash}{88aa533aebc374fe3a0131acd09167e1}
       \field{sortinit}{2}
-      \field{labelyear}{2014}
-      \field{labelmonth}{07}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Star formation and interstellar medium in NGC1569}}
       \field{booktitle}{European Week of Astronomy and Space Science meeting}
       \field{month}{07}
+      \field{pubstate}{contributed talk}
       \field{title}{{Star formation and interstellar medium in NGC1569}}
       \field{year}{2014}
       \keyw{unref}
@@ -1345,10 +1274,8 @@
       \strng{namehash}{56183a6ca565f902c647b3ecbe63f136}
       \strng{fullhash}{56183a6ca565f902c647b3ecbe63f136}
       \field{sortinit}{2}
-      \field{labelyear}{2014}
-      \field{labelmonth}{10}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Probing the interstellar medium of NGC1569 with {\em Herschel}}}
+      \field{addendum}{(2, 3)}
       \field{eprintclass}{astro-ph.GA}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{MNRAS}
@@ -1384,12 +1311,10 @@
       \strng{namehash}{fb0e1fad9eda9f9a79200dd6519f3fcb}
       \strng{fullhash}{fb0e1fad9eda9f9a79200dd6519f3fcb}
       \field{sortinit}{2}
-      \field{labelyear}{2014}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Dust and gas in early-type galaxies}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{06}
+      \field{pubstate}{contributed talk}
       \field{title}{{Dust and gas in early-type galaxies}}
       \field{year}{2014}
       \keyw{unref}
@@ -1409,12 +1334,10 @@
       \strng{namehash}{d58c8752dc75fe837451c42925f850e2}
       \strng{fullhash}{d58c8752dc75fe837451c42925f850e2}
       \field{sortinit}{2}
-      \field{labelyear}{2014}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Which Star Formation Law in M31?}}
       \field{booktitle}{Galactic and Extragalactic Star Formation}
       \field{month}{09}
+      \field{pubstate}{poster}
       \field{title}{{Which Star Formation Law in M31?}}
       \field{year}{2014}
       \keyw{unref}
@@ -1433,10 +1356,8 @@
       \strng{namehash}{d319988b4a09c07fd942176d59b877af}
       \strng{fullhash}{d319988b4a09c07fd942176d59b877af}
       \field{sortinit}{2}
-      \field{labelyear}{2014}
-      \field{labelmonth}{08}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Faint X-Ray Binaries and Their Optical Counterparts in M31}}
+      \field{addendum}{(2, 3)}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
@@ -1467,12 +1388,10 @@
       \strng{namehash}{d79e0d0e43b5cc10a4d55b5dd85224e3}
       \strng{fullhash}{d79e0d0e43b5cc10a4d55b5dd85224e3}
       \field{sortinit}{2}
-      \field{labelyear}{2014}
-      \field{labelmonth}{08}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Faint X-Ray Binaries and Their Optical Counterparts in M31}}
       \field{booktitle}{AAS/High Energy Astrophysics Division}
       \field{month}{08}
+      \field{pubstate}{contributed talk}
       \field{series}{AAS/High Energy Astrophysics Division}
       \field{title}{{Faint X-Ray Binaries and Their Optical Counterparts in M31}}
       \field{volume}{14}
@@ -1492,10 +1411,8 @@
       \strng{namehash}{f7e2368a41d0cd7a8396b16f8c5c636d}
       \strng{fullhash}{f7e2368a41d0cd7a8396b16f8c5c636d}
       \field{sortinit}{2}
-      \field{labelyear}{2013}
-      \field{labelmonth}{11}
-      \field{datelabelsource}{}
       \field{labeltitle}{{M31 Globular Cluster Structures and the Presence of X-Ray Binaries}}
+      \field{addendum}{(2, 3, 4)}
       \field{eprintclass}{astro-ph.GA}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{AJ}
@@ -1610,10 +1527,8 @@
       \strng{namehash}{3eed06b5027413f4dc63846e54fe45bf}
       \strng{fullhash}{13dca2ecbb12b3a78bb4035cf98acb39}
       \field{sortinit}{2}
-      \field{labelyear}{2013}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{SEDS: The Spitzer Extended Deep Survey. Survey Design, Photometry, and Deep IRAC Source Counts}}
+      \field{addendum}{(4, 5, 6)}
       \field{journaltitle}{ApJ}
       \field{month}{05}
       \field{title}{{SEDS: The Spitzer Extended Deep Survey. Survey Design, Photometry, and Deep IRAC Source Counts}}
@@ -1638,12 +1553,10 @@
       \strng{namehash}{47a09f103194d3d80bfaf75bef908949}
       \strng{fullhash}{47a09f103194d3d80bfaf75bef908949}
       \field{sortinit}{2}
-      \field{labelyear}{2013}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Comparing H~II regions in M31 and NGC~5128}}
       \field{booktitle}{``Science with SITELLE'' workshop}
       \field{month}{05}
+      \field{pubstate}{contributed talk}
       \field{title}{{Comparing H~II regions in M31 and NGC~5128}}
       \field{year}{2013}
       \keyw{unref}
@@ -1665,12 +1578,10 @@
       \strng{namehash}{340051e13aba326479b3cbc32f387f41}
       \strng{fullhash}{340051e13aba326479b3cbc32f387f41}
       \field{sortinit}{2}
-      \field{labelyear}{2013}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Mysterious PAHs in M31}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{05}
+      \field{pubstate}{poster}
       \field{title}{{Mysterious PAHs in M31}}
       \field{year}{2013}
       \keyw{unref}
@@ -1717,10 +1628,8 @@
       \strng{namehash}{f02255146585d3743cfd2adfdf641ea2}
       \strng{fullhash}{f02255146585d3743cfd2adfdf641ea2}
       \field{sortinit}{2}
-      \field{labelyear}{2013}
-      \field{labelmonth}{03}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Multi-Wavelength Study of a Complete IRAC 3.6 {$\mu$}m Selected Galaxy Sample: A Fair Census of Red and Blue Populations at Redshifts 0.4-1.2}}
+      \field{addendum}{(6)}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
@@ -1756,13 +1665,10 @@
       \strng{namehash}{d691ef38ac3202a2cbdb0d61408b99fd}
       \strng{fullhash}{d691ef38ac3202a2cbdb0d61408b99fd}
       \field{sortinit}{2}
-      \field{extrayear}{1}
-      \field{labelyear}{2013}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{{\it Herschel} Observations of Super Star Clusters in NGC~1569}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{05}
+      \field{pubstate}{poster}
       \field{title}{{{\it Herschel} Observations of Super Star Clusters in NGC~1569}}
       \field{year}{2013}
       \keyw{unref}
@@ -1786,13 +1692,10 @@
       \strng{namehash}{d691ef38ac3202a2cbdb0d61408b99fd}
       \strng{fullhash}{d691ef38ac3202a2cbdb0d61408b99fd}
       \field{sortinit}{2}
-      \field{extrayear}{2}
-      \field{labelyear}{2013}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{{\it Herschel} Observations of Super Star Clusters in NGC~1569}}
       \field{booktitle}{Origins Star Formation Jamboree}
       \field{month}{05}
+      \field{pubstate}{contributed talk}
       \field{title}{{{\it Herschel} Observations of Super Star Clusters in NGC~1569}}
       \field{year}{2013}
       \keyw{unref}
@@ -1816,13 +1719,10 @@
       \strng{namehash}{d691ef38ac3202a2cbdb0d61408b99fd}
       \strng{fullhash}{d691ef38ac3202a2cbdb0d61408b99fd}
       \field{sortinit}{2}
-      \field{extrayear}{3}
-      \field{labelyear}{2013}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Probing the Interstellar Medium of the NGC1569 Super Star Cluster Population with {\it Herschel}}}
       \field{booktitle}{Hellenic Astronomical Society 11th meeting}
       \field{month}{09}
+      \field{pubstate}{contributed talk}
       \field{title}{{Probing the Interstellar Medium of the NGC1569 Super Star Cluster Population with {\it Herschel}}}
       \field{year}{2013}
       \keyw{unref}
@@ -1844,12 +1744,10 @@
       \strng{namehash}{45a47d4a9e352b23440270e28a25071d}
       \strng{fullhash}{45a47d4a9e352b23440270e28a25071d}
       \field{sortinit}{2}
-      \field{labelyear}{2013}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Imagecube: an astropy affiliated package}}
       \field{booktitle}{The 11th Hellenic Astronomical Conference}
       \field{month}{09}
+      \field{pubstate}{poster}
       \field{title}{{Imagecube: an astropy affiliated package}}
       \field{year}{2013}
       \field{pages}{27\bibrangedash 27}
@@ -1889,8 +1787,6 @@
       \strng{namehash}{25b324075d3b642382b78d5a6ff16e83}
       \strng{fullhash}{25b324075d3b642382b78d5a6ff16e83}
       \field{sortinit}{2}
-      \field{labelyear}{2013}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Evidence for Pulsation-Driven Mass Loss from {$\delta$} Cephei}}
       \field{booktitle}{Stellar Pulsations: Impact of New Instrumentation and New Insights}
       \field{series}{Advances in Solid State Physics}
@@ -1918,12 +1814,10 @@
       \strng{namehash}{d58c8752dc75fe837451c42925f850e2}
       \strng{fullhash}{d58c8752dc75fe837451c42925f850e2}
       \field{sortinit}{2}
-      \field{labelyear}{2013}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Testing the Extended Schmidt-Kennicutt Law in M31}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{05}
+      \field{pubstate}{poster}
       \field{title}{{Testing the Extended Schmidt-Kennicutt Law in M31}}
       \field{year}{2013}
       \keyw{unref}
@@ -1942,10 +1836,8 @@
       \strng{namehash}{cd94b5d21d83f5d624e693240fed2900}
       \strng{fullhash}{cd94b5d21d83f5d624e693240fed2900}
       \field{sortinit}{2}
-      \field{labelyear}{2013}
-      \field{labelmonth}{02}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Stacking Star Clusters in M51: Searching for Faint X-Ray Binaries}}
+      \field{addendum}{(2, 3)}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
@@ -1979,12 +1871,10 @@
       \strng{namehash}{ad37c15cb1f3d14e0ee7f1ee5fae358a}
       \strng{fullhash}{ad37c15cb1f3d14e0ee7f1ee5fae358a}
       \field{sortinit}{2}
-      \field{labelyear}{2013}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Searching for Faint X--ray Binaries in M31}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{05}
+      \field{pubstate}{contributed talk}
       \field{title}{{Searching for Faint X--ray Binaries in M31}}
       \field{year}{2013}
       \keyw{unref}
@@ -2004,12 +1894,10 @@
       \strng{namehash}{a116a993a889610a852d944a084b368d}
       \strng{fullhash}{a116a993a889610a852d944a084b368d}
       \field{sortinit}{2}
-      \field{labelyear}{2012}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Comparisons of M31 Globular Clusters With and Without X--ray Sources}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{06}
+      \field{pubstate}{poster}
       \field{title}{{Comparisons of M31 Globular Clusters With and Without X--ray Sources}}
       \field{year}{2012}
       \keyw{unref}
@@ -2031,12 +1919,10 @@
       \strng{namehash}{39168903ac96e01006340ece4b773559}
       \strng{fullhash}{39168903ac96e01006340ece4b773559}
       \field{sortinit}{2}
-      \field{labelyear}{2012}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{New Catalog of H{\sc ii} Regions in M31}}
       \field{booktitle}{``The Great Andromeda Galaxy'' Workshop}
       \field{month}{06}
+      \field{pubstate}{poster}
       \field{title}{{New Catalog of H{\sc ii} Regions in M31}}
       \field{year}{2012}
       \keyw{unref}
@@ -2054,12 +1940,10 @@
       \strng{namehash}{47a09f103194d3d80bfaf75bef908949}
       \strng{fullhash}{47a09f103194d3d80bfaf75bef908949}
       \field{sortinit}{2}
-      \field{labelyear}{2012}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{M31 in the Mid-Infrared}}
       \field{booktitle}{``The Great Andromeda Galaxy'' Workshop}
       \field{month}{06}
+      \field{pubstate}{contributed talk}
       \field{title}{{M31 in the Mid-Infrared}}
       \field{year}{2012}
       \keyw{unref}
@@ -2076,10 +1960,8 @@
       \strng{namehash}{51ee34bb92d2b8a82e47fd5d3319861f}
       \strng{fullhash}{51ee34bb92d2b8a82e47fd5d3319861f}
       \field{sortinit}{2}
-      \field{labelyear}{2012}
-      \field{labelmonth}{04}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Comparing Mid-infrared Globular Cluster Colors with Population Synthesis Models}}
+      \field{addendum}{(1,2)}
       \field{eprintclass}{astro-ph.GA}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{AJ}
@@ -2134,12 +2016,10 @@
       \strng{namehash}{9e348da56a2e853e370be082ae1653d0}
       \strng{fullhash}{9e348da56a2e853e370be082ae1653d0}
       \field{sortinit}{2}
-      \field{labelyear}{2012}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{{A Complete Census of Dusty Evolved Stars in Local Group Dwarf Galaxies with Spitzer: Description and First Results}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#219}
       \field{month}{01}
+      \field{pubstate}{poster}
       \field{title}{{A Complete Census of Dusty Evolved Stars in Local Group Dwarf Galaxies with Spitzer: Description and First Results}}
       \field{volume}{219}
       \field{year}{2012}
@@ -2165,13 +2045,10 @@
       \strng{namehash}{ea1f979eeac6641cede58b225f207ba6}
       \strng{fullhash}{ea1f979eeac6641cede58b225f207ba6}
       \field{sortinit}{2}
-      \field{extrayear}{1}
-      \field{labelyear}{2012}
-      \field{labelmonth}{07}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The M31 Abundance Gradient}}
       \field{booktitle}{Gemini Science and Users' Meeting}
       \field{month}{07}
+      \field{pubstate}{poster}
       \field{title}{{The M31 Abundance Gradient}}
       \field{year}{2012}
       \keyw{unref}
@@ -2195,13 +2072,10 @@
       \strng{namehash}{ea1f979eeac6641cede58b225f207ba6}
       \strng{fullhash}{ea1f979eeac6641cede58b225f207ba6}
       \field{sortinit}{2}
-      \field{extrayear}{2}
-      \field{labelyear}{2012}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The M31 Abundance Gradient}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{06}
+      \field{pubstate}{poster}
       \field{title}{{The M31 Abundance Gradient}}
       \field{year}{2012}
       \keyw{unref}
@@ -2223,12 +2097,10 @@
       \strng{namehash}{86f010a2471a46390fe0ee1d6048c0ed}
       \strng{fullhash}{86f010a2471a46390fe0ee1d6048c0ed}
       \field{sortinit}{2}
-      \field{labelyear}{2012}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The Star Formation Rate in NGC 5128}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{06}
+      \field{pubstate}{poster}
       \field{title}{{The Star Formation Rate in NGC 5128}}
       \field{year}{2012}
       \keyw{unref}
@@ -2253,10 +2125,8 @@
       \strng{namehash}{59ae49e2c6ae30dd41aeb62dbc92f30f}
       \strng{fullhash}{59ae49e2c6ae30dd41aeb62dbc92f30f}
       \field{sortinit}{2}
-      \field{labelyear}{2012}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The JCMT Nearby Galaxies Legacy Survey - VII. H{$\alpha$} imaging and massive star formation properties}}
+      \field{addendum}{(2, 5)}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{MNRAS}
@@ -2290,13 +2160,10 @@
       \strng{namehash}{ad37c15cb1f3d14e0ee7f1ee5fae358a}
       \strng{fullhash}{ad37c15cb1f3d14e0ee7f1ee5fae358a}
       \field{sortinit}{2}
-      \field{extrayear}{1}
-      \field{labelyear}{2012}
-      \field{labelmonth}{07}
-      \field{datelabelsource}{}
       \field{labeltitle}{{A Stacking Analysis of Star Clusters in M51: The Search for X--ray Binaries}}
       \field{booktitle}{``X-ray Binaries: 2012 Chandra Science Workshop''}
       \field{month}{07}
+      \field{pubstate}{poster}
       \field{title}{{A Stacking Analysis of Star Clusters in M51: The Search for X--ray Binaries}}
       \field{year}{2012}
       \keyw{unref}
@@ -2318,13 +2185,10 @@
       \strng{namehash}{ad37c15cb1f3d14e0ee7f1ee5fae358a}
       \strng{fullhash}{ad37c15cb1f3d14e0ee7f1ee5fae358a}
       \field{sortinit}{2}
-      \field{extrayear}{2}
-      \field{labelyear}{2012}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{A Stacking Analysis of Star Clusters in M51: The Search for X--ray Binaries}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{06}
+      \field{pubstate}{contributed talk}
       \field{title}{{A Stacking Analysis of Star Clusters in M51: The Search for X--ray Binaries}}
       \field{year}{2012}
       \keyw{unref}
@@ -2355,10 +2219,8 @@
       \strng{namehash}{6276339ca988696371b7c2e2189becc7}
       \strng{fullhash}{6276339ca988696371b7c2e2189becc7}
       \field{sortinit}{2}
-      \field{labelyear}{2012}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{A Fully Identified Sample of AEGIS20 Microjansky Radio Sources}}
+      \field{addendum}{(4, 5, 6)}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
@@ -2499,10 +2361,8 @@
       \strng{namehash}{60fee4c9a450f4bc5d644c8c9b9ca6e2}
       \strng{fullhash}{f7755edfc75731bb1ad9ce089d75baf0}
       \field{sortinit}{2}
-      \field{labelyear}{2012}
-      \field{labelmonth}{08}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The JCMT Nearby Galaxies Legacy Survey - VIII. CO data and the L$_{CO(3-2)}$-L$_{FIR}$ correlation in the SINGS sample}}
+      \field{addendum}{(2, 5, 6)}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{MNRAS}
@@ -2567,10 +2427,8 @@
       \strng{namehash}{8afc9f44c46eed03883d5158aec837f1}
       \strng{fullhash}{8afc9f44c46eed03883d5158aec837f1}
       \field{sortinit}{2}
-      \field{labelyear}{2011}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The Star Formation Reference Survey. I. Survey Description and Basic Data}}
+      \field{addendum}{(5, 6)}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{PASP}
@@ -2635,12 +2493,10 @@
       \strng{namehash}{8683f14ec2f5bd949e5abd65cab8a94c}
       \strng{fullhash}{8683f14ec2f5bd949e5abd65cab8a94c}
       \field{sortinit}{2}
-      \field{labelyear}{2011}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The Star Formation Reference Survey -- Survey Design and Basic Data}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#218}
       \field{month}{05}
+      \field{pubstate}{contributed talk}
       \field{title}{{The Star Formation Reference Survey -- Survey Design and Basic Data}}
       \field{year}{2011}
       \field{pages}{130.03}
@@ -2660,12 +2516,10 @@
       \strng{namehash}{7fb19fcaa8f500b3cc307770078acd42}
       \strng{fullhash}{7fb19fcaa8f500b3cc307770078acd42}
       \field{sortinit}{2}
-      \field{labelyear}{2011}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{New Catalog of H II Regions in M31}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#218}
       \field{month}{05}
+      \field{pubstate}{contributed talk}
       \field{title}{{New Catalog of H II Regions in M31}}
       \field{year}{2011}
       \field{pages}{106.02}
@@ -2685,11 +2539,8 @@
       \strng{namehash}{39168903ac96e01006340ece4b773559}
       \strng{fullhash}{39168903ac96e01006340ece4b773559}
       \field{sortinit}{2}
-      \field{extrayear}{1}
-      \field{labelyear}{2011}
-      \field{labelmonth}{10}
-      \field{datelabelsource}{}
       \field{labeltitle}{{A New Catalog of H II Regions in M31}}
+      \field{addendum}{(2, 3, 4)}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{AJ}
@@ -2723,13 +2574,10 @@
       \strng{namehash}{39168903ac96e01006340ece4b773559}
       \strng{fullhash}{39168903ac96e01006340ece4b773559}
       \field{sortinit}{2}
-      \field{extrayear}{2}
-      \field{labelyear}{2011}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{A New Catalog of H{\sc ii} Regions in M31}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{06}
+      \field{pubstate}{contributed talk}
       \field{title}{{A New Catalog of H{\sc ii} Regions in M31}}
       \field{year}{2011}
       \keyw{unref}
@@ -2751,12 +2599,10 @@
       \strng{namehash}{7448c2b4fceb9e1f35b8789ae24bd3b6}
       \strng{fullhash}{7448c2b4fceb9e1f35b8789ae24bd3b6}
       \field{sortinit}{2}
-      \field{labelyear}{2011}
-      \field{labelmonth}{07}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Citizen science projects for non-science astronomy students}}
       \field{booktitle}{The Western Conference on Science Education}
       \field{month}{07}
+      \field{pubstate}{poster}
       \field{title}{{Citizen science projects for non-science astronomy students}}
       \field{year}{2011}
       \keyw{unref}
@@ -2773,12 +2619,10 @@
       \strng{namehash}{51ee34bb92d2b8a82e47fd5d3319861f}
       \strng{fullhash}{51ee34bb92d2b8a82e47fd5d3319861f}
       \field{sortinit}{2}
-      \field{labelyear}{2011}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Globular Cluster Colors Versus Population Synthesis Models}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#218}
       \field{month}{05}
+      \field{pubstate}{poster}
       \field{title}{{Globular Cluster Colors Versus Population Synthesis Models}}
       \field{year}{2011}
       \field{pages}{133.12}
@@ -2799,12 +2643,10 @@
       \strng{namehash}{da6bbd6e97bd6801d7dfa23399c9d7da}
       \strng{fullhash}{da6bbd6e97bd6801d7dfa23399c9d7da}
       \field{sortinit}{2}
-      \field{labelyear}{2011}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Globular Cluster Colors Versus Populations Synthesis Models}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{06}
+      \field{pubstate}{poster}
       \field{title}{{Globular Cluster Colors Versus Populations Synthesis Models}}
       \field{year}{2011}
       \keyw{unref}
@@ -2833,10 +2675,8 @@
       \strng{namehash}{564c7214b1cd23ece82f69ede4b4bf2c}
       \strng{fullhash}{564c7214b1cd23ece82f69ede4b4bf2c}
       \field{sortinit}{2}
-      \field{labelyear}{2011}
-      \field{labelmonth}{02}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Galactic Cepheids with Spitzer. II. Search for Extended Infrared Emission}}
+      \field{addendum}{(1,6)}
       \field{eprintclass}{astro-ph.SR}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{AJ}
@@ -2897,10 +2737,8 @@
       \strng{namehash}{87d400710bc600777752cc005d744922}
       \strng{fullhash}{87d400710bc600777752cc005d744922}
       \field{sortinit}{2}
-      \field{labelyear}{2011}
-      \field{labelmonth}{02}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Extragalactic background light inferred from AEGIS galaxy-SED-type fractions}}
+      \field{addendum}{(6)}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{MNRAS}
@@ -2938,12 +2776,10 @@
       \strng{namehash}{e8bce33315a72dd6011a8a9c10d5d7a1}
       \strng{fullhash}{e8bce33315a72dd6011a8a9c10d5d7a1}
       \field{sortinit}{2}
-      \field{labelyear}{2011}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Characterizing the Nuclear Structure and Activity in Compact Group Galaxies: A Case Study of HCG 7, HCG 42, and HCG 59}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{06}
+      \field{pubstate}{poster}
       \field{title}{{Characterizing the Nuclear Structure and Activity in Compact Group Galaxies: A Case Study of HCG 7, HCG 42, and HCG 59}}
       \field{year}{2011}
       \keyw{unref}
@@ -2976,12 +2812,10 @@
       \strng{namehash}{85899849af0abf7d9d15a11b74e8d0d6}
       \strng{fullhash}{85899849af0abf7d9d15a11b74e8d0d6}
       \field{sortinit}{2}
-      \field{labelyear}{2011}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The Delta Cephei Infrared Nebula}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#217}
       \field{month}{01}
+      \field{pubstate}{poster}
       \field{title}{{The Delta Cephei Infrared Nebula}}
       \field{volume}{43}
       \field{year}{2011}
@@ -3016,9 +2850,6 @@
       \strng{namehash}{25b324075d3b642382b78d5a6ff16e83}
       \strng{fullhash}{25b324075d3b642382b78d5a6ff16e83}
       \field{sortinit}{2}
-      \field{labelyear}{2011}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Evidence for Pulsation-Driven Mass Loss from delta Cephei}}
       \field{eprintclass}{astro-ph.SR}
       \field{eprinttype}{arXiv}
@@ -3069,10 +2900,8 @@
       \strng{namehash}{a1da78d531122acb8e48339b86c4bada}
       \strng{fullhash}{a1da78d531122acb8e48339b86c4bada}
       \field{sortinit}{2}
-      \field{labelyear}{2011}
-      \field{labelmonth}{03}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The JCMT Nearby Galaxies Legacy Survey. VI. The distribution of gas and star formation in M 81}}
+      \field{addendum}{(5, 6)}
       \field{eprintclass}{astro-ph.GA}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{A\&A}
@@ -3104,12 +2933,10 @@
       \strng{namehash}{5bf70d131d1fe79ba9be04affd93eb8e}
       \strng{fullhash}{5bf70d131d1fe79ba9be04affd93eb8e}
       \field{sortinit}{2}
-      \field{labelyear}{2011}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Mass-loss rates of AGB stars in six dwarf spheroidal galaxies}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{06}
+      \field{pubstate}{poster}
       \field{title}{{Mass-loss rates of AGB stars in six dwarf spheroidal galaxies}}
       \field{year}{2011}
       \keyw{unref}
@@ -3131,12 +2958,10 @@
       \strng{namehash}{77ce5efaf27a06201093f81d5a3a9487}
       \strng{fullhash}{77ce5efaf27a06201093f81d5a3a9487}
       \field{sortinit}{2}
-      \field{labelyear}{2011}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Low-Mass X-Ray Binaries in Globular Cluster systems in M51}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{06}
+      \field{pubstate}{poster}
       \field{title}{{Low-Mass X-Ray Binaries in Globular Cluster systems in M51}}
       \field{year}{2011}
       \keyw{unref}
@@ -3193,10 +3018,8 @@
       \strng{namehash}{a50780258508a663358b0957ff881f56}
       \strng{fullhash}{6e022dc72c483b37da7863eb57a30a7a}
       \field{sortinit}{2}
-      \field{labelyear}{2011}
-      \field{labelmonth}{02}
-      \field{datelabelsource}{}
       \field{labeltitle}{{AEGIS: Demographics of X-ray and Optically Selected Active Galactic Nuclei}}
+      \field{addendum}{(5, 6)}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
@@ -3243,10 +3066,8 @@
       \strng{namehash}{0760193e74845adbec5144c772242d74}
       \strng{fullhash}{0760193e74845adbec5144c772242d74}
       \field{sortinit}{2}
-      \field{labelyear}{2010}
-      \field{labelmonth}{02}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The evolution of the hard X-ray luminosity function of AGN}}
+      \field{addendum}{(5, 6)}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{MNRAS}
@@ -3280,12 +3101,10 @@
       \strng{namehash}{b0611f3509fb5ad09f3535ade903881e}
       \strng{fullhash}{b0611f3509fb5ad09f3535ade903881e}
       \field{sortinit}{2}
-      \field{labelyear}{2010}
-      \field{labelmonth}{04}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Study of Molecular Clouds Associated with HII Regions: Initial Characteristics of Massive Star Forming Regions}}
       \field{booktitle}{``From Stars to Galaxies''}
       \field{month}{04}
+      \field{pubstate}{poster}
       \field{title}{{Study of Molecular Clouds Associated with HII Regions: Initial Characteristics of Massive Star Forming Regions}}
       \field{year}{2010}
       \keyw{unref}
@@ -3303,13 +3122,10 @@
       \strng{namehash}{47a09f103194d3d80bfaf75bef908949}
       \strng{fullhash}{47a09f103194d3d80bfaf75bef908949}
       \field{sortinit}{2}
-      \field{extrayear}{1}
-      \field{labelyear}{2010}
-      \field{labelmonth}{08}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Online Homework Systems for Introductory Astronomy}}
       \field{booktitle}{``Cosmos in the Classroom''}
       \field{month}{08}
+      \field{pubstate}{poster}
       \field{title}{{Online Homework Systems for Introductory Astronomy}}
       \field{year}{2010}
       \keyw{unref}
@@ -3324,14 +3140,11 @@
       \strng{namehash}{47a09f103194d3d80bfaf75bef908949}
       \strng{fullhash}{47a09f103194d3d80bfaf75bef908949}
       \field{sortinit}{2}
-      \field{extrayear}{2}
-      \field{labelyear}{2010}
-      \field{labelmonth}{04}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Spitzer Colors of Everything in the Universe: A Field Guide for the Perplexed}}
       \field{booktitle}{From Stars to Galaxies: Connecting our Understanding of Star and Galaxy Formation}
       \field{eid}{109}
       \field{month}{04}
+      \field{pubstate}{poster}
       \field{title}{{Spitzer Colors of Everything in the Universe: A Field Guide for the Perplexed}}
       \field{year}{2010}
       \keyw{unref,csa}
@@ -3380,13 +3193,12 @@
       \strng{namehash}{efda487141f17d0b8430ad8f3eea9efc}
       \strng{fullhash}{efda487141f17d0b8430ad8f3eea9efc}
       \field{sortinit}{2}
-      \field{labelyear}{2010}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Extragalactic Background Light Inferred from AEGIS Galaxy SED-type Fractions}}
       \field{booktitle}{25th Texas Symposium on Relativistic Astrophysics}
       \field{eid}{228}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
+      \field{pubstate}{contributed talk}
       \field{title}{{Extragalactic Background Light Inferred from AEGIS Galaxy SED-type Fractions}}
       \field{year}{2010}
       \verb{eprint}
@@ -3418,12 +3230,10 @@
       \strng{namehash}{c6dd6437cd1fa1ed3df5fdbaae259e13}
       \strng{fullhash}{c6dd6437cd1fa1ed3df5fdbaae259e13}
       \field{sortinit}{2}
-      \field{labelyear}{2010}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Observations of Cepheids with Spitzer}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#215}
       \field{month}{01}
+      \field{pubstate}{poster}
       \field{title}{{Observations of Cepheids with Spitzer}}
       \field{volume}{42}
       \field{year}{2010}
@@ -3454,10 +3264,8 @@
       \strng{namehash}{bf4faf00a70eada830b3bbab97fc6b4d}
       \strng{fullhash}{bf4faf00a70eada830b3bbab97fc6b4d}
       \field{sortinit}{2}
-      \field{labelyear}{2010}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Localization of the X-ray source in the globular cluster G1 with Chandra}}
+      \field{addendum}{(3, 4)}
       \field{eprintclass}{astro-ph.HE}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{MNRAS}
@@ -3488,10 +3296,8 @@
       \strng{namehash}{f37dee6cbe03f1fbfa45249f02e38e9f}
       \strng{fullhash}{f37dee6cbe03f1fbfa45249f02e38e9f}
       \field{sortinit}{2}
-      \field{labelyear}{2010}
-      \field{labelmonth}{11}
-      \field{datelabelsource}{}
       \field{labeltitle}{{On the dust geometry in radio-loud active galactic nuclei}}
+      \field{addendum}{(3, 4)}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{MNRAS}
@@ -3553,12 +3359,10 @@
       \strng{namehash}{eb93bf58cb1a396cfba932d2331137f1}
       \strng{fullhash}{eb93bf58cb1a396cfba932d2331137f1}
       \field{sortinit}{2}
-      \field{labelyear}{2010}
-      \field{labelmonth}{07}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Star Formation Reference Survey}}
       \field{booktitle}{``Extragalactic Star Formation''}
       \field{month}{07}
+      \field{pubstate}{poster}
       \field{title}{{Star Formation Reference Survey}}
       \field{year}{2010}
       \keyw{unref}
@@ -3583,10 +3387,8 @@
       \strng{namehash}{b804216fb9dd4069e402ea84032b238a}
       \strng{fullhash}{b804216fb9dd4069e402ea84032b238a}
       \field{sortinit}{2}
-      \field{labelyear}{2010}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Galactic Cepheids with Spitzer. I. Leavitt Law and Colors}}
+      \field{addendum}{(3, 5, 6)}
       \field{eprintclass}{astro-ph.SR}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
@@ -3631,10 +3433,8 @@
       \strng{namehash}{85899849af0abf7d9d15a11b74e8d0d6}
       \strng{fullhash}{85899849af0abf7d9d15a11b74e8d0d6}
       \field{sortinit}{2}
-      \field{labelyear}{2010}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{An Infrared Nebula Associated with {$\delta$} Cephei: Evidence of Mass Loss?}}
+      \field{addendum}{(3, 5, 6)}
       \field{eprintclass}{astro-ph.SR}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
@@ -3667,10 +3467,8 @@
       \strng{namehash}{a69a8ba4dbf795759fe782f3f7fe1e2d}
       \strng{fullhash}{a69a8ba4dbf795759fe782f3f7fe1e2d}
       \field{sortinit}{2}
-      \field{labelyear}{2010}
-      \field{labelmonth}{03}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Nearby Spiral Galaxy Globular Cluster Systems. II. Globular Cluster Metallicities in NGC 300}}
+      \field{addendum}{(3, 4)}
       \field{journaltitle}{AJ}
       \field{month}{03}
       \field{title}{{Nearby Spiral Galaxy Globular Cluster Systems. II. Globular Cluster Metallicities in NGC 300}}
@@ -3712,10 +3510,8 @@
       \strng{namehash}{08ac0a472945237809d50975505df175}
       \strng{fullhash}{08ac0a472945237809d50975505df175}
       \field{sortinit}{2}
-      \field{labelyear}{2010}
-      \field{labelmonth}{07}
-      \field{datelabelsource}{}
       \field{labeltitle}{{AEGIS: A Multiwavelength Study of Spitzer Power-law Galaxies}}
+      \field{addendum}{(3, 4,6)}
       \field{eprintclass}{astro-ph.GA}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
@@ -3768,10 +3564,8 @@
       \strng{namehash}{52085b75c4478d9779aa10cd0b56fcc9}
       \strng{fullhash}{52085b75c4478d9779aa10cd0b56fcc9}
       \field{sortinit}{2}
-      \field{labelyear}{2010}
-      \field{labelmonth}{02}
-      \field{datelabelsource}{}
       \field{labeltitle}{{An HST/WFPC2 survey of bright young clusters in M 31. IV. Age and mass estimates}}
+      \field{addendum}{(3, 5, 6)}
       \field{eprintclass}{astro-ph.GA}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{A\&A}
@@ -3816,9 +3610,6 @@
       \strng{namehash}{0330c2106df005bb5e9bfbd71255cad6}
       \strng{fullhash}{0330c2106df005bb5e9bfbd71255cad6}
       \field{sortinit}{2}
-      \field{labelyear}{2010}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Discovery Of An Infrared Bow Shock Associated With Delta Cephei}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#216}
       \field{month}{05}
@@ -3843,12 +3634,10 @@
       \strng{namehash}{5bf70d131d1fe79ba9be04affd93eb8e}
       \strng{fullhash}{5bf70d131d1fe79ba9be04affd93eb8e}
       \field{sortinit}{2}
-      \field{labelyear}{2010}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{AGB Stars in the Fornax Dwarf Spheroidal Galaxy}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{05}
+      \field{pubstate}{poster}
       \field{title}{{AGB Stars in the Fornax Dwarf Spheroidal Galaxy}}
       \field{year}{2010}
       \keyw{unref}
@@ -3875,12 +3664,10 @@
       \strng{namehash}{0bb2eed408cbea93226c3a065df474e9}
       \strng{fullhash}{0bb2eed408cbea93226c3a065df474e9}
       \field{sortinit}{2}
-      \field{labelyear}{2010}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Mid-Infrared Features of M33 HII and Diffuse Regions: Tracing Dust Composition and Formation}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#215}
       \field{month}{01}
+      \field{pubstate}{poster}
       \field{title}{{Mid-Infrared Features of M33 HII and Diffuse Regions: Tracing Dust Composition and Formation}}
       \field{volume}{42}
       \field{year}{2010}
@@ -3907,12 +3694,10 @@
       \strng{namehash}{18ce2dcb755aafe6c4cbc51f008f4059}
       \strng{fullhash}{18ce2dcb755aafe6c4cbc51f008f4059}
       \field{sortinit}{2}
-      \field{labelyear}{2009}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Local Group Dwarf Spheroidal Galaxies as Seen by {\it Spitzer}}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#214}
       \field{month}{05}
+      \field{pubstate}{poster}
       \field{title}{{Local Group Dwarf Spheroidal Galaxies as Seen by {\it Spitzer}}}
       \field{volume}{214}
       \field{year}{2009}
@@ -3944,12 +3729,10 @@
       \strng{namehash}{49f32a4679caf430ee460ca0bbf10230}
       \strng{fullhash}{49f32a4679caf430ee460ca0bbf10230}
       \field{sortinit}{2}
-      \field{labelyear}{2009}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{HST Observations of Young Star Clusters in M31}}
       \field{booktitle}{``Unveiling the Mass: Extracting and Interpreting Galaxy Masses''}
       \field{month}{06}
+      \field{pubstate}{poster}
       \field{title}{{HST Observations of Young Star Clusters in M31}}
       \field{year}{2009}
       \keyw{unref}
@@ -3978,10 +3761,8 @@
       \strng{namehash}{adee95d5eea33242e31e72af3f4e7a55}
       \strng{fullhash}{adee95d5eea33242e31e72af3f4e7a55}
       \field{sortinit}{2}
-      \field{labelyear}{2009}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{{A Spitzer Search for Cold Dust Within Globular Clusters}}
+      \field{addendum}{(1,6)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{AJ}
       \field{month}{01}
@@ -4023,10 +3804,8 @@
       \strng{namehash}{2db0d92922357e0207da6e60e9628bfa}
       \strng{fullhash}{2db0d92922357e0207da6e60e9628bfa}
       \field{sortinit}{2}
-      \field{labelyear}{2009}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{A Hubble Space Telescope/WFPC2 Survey of Bright Young Clusters in M31. III. Structural Parameters}}
+      \field{addendum}{(3, 5, 6)}
       \field{eprintclass}{astro-ph.GA}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{AJ}
@@ -4068,12 +3847,10 @@
       \strng{namehash}{03c5eeb48b0c40f3ce2b4c8bb7ce1c91}
       \strng{fullhash}{03c5eeb48b0c40f3ce2b4c8bb7ce1c91}
       \field{sortinit}{2}
-      \field{labelyear}{2009}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Structure of Young Star Clusters in M31}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{05}
+      \field{pubstate}{contributed talk}
       \field{title}{{Structure of Young Star Clusters in M31}}
       \field{year}{2009}
       \keyw{unref}
@@ -4240,10 +4017,8 @@
       \strng{namehash}{610e9fd0e1097936a1bd7e07dce5f96f}
       \strng{fullhash}{44172c23ed8a20237b2fd0778e1e9c1a}
       \field{sortinit}{2}
-      \field{labelyear}{2009}
-      \field{labelmonth}{07}
-      \field{datelabelsource}{}
       \field{labeltitle}{{CfA3: 185 Type Ia Supernova Light Curves from the CfA}}
+      \field{addendum}{(6)}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
@@ -4284,10 +4059,8 @@
       \strng{namehash}{7eb817890627435fc5321c72012d27ca}
       \strng{fullhash}{7eb817890627435fc5321c72012d27ca}
       \field{sortinit}{2}
-      \field{labelyear}{2009}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{An HST/WFPC Survey of Bright Young Clusters in M31. II. Photometry of Less Luminous Clusters in the Fields}}
+      \field{addendum}{(3, 5, 6)}
       \field{eprintclass}{astro-ph.GA}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{AJ}
@@ -4340,10 +4113,8 @@
       \strng{namehash}{201383b988f4a60754d46e0f1280c38c}
       \strng{fullhash}{201383b988f4a60754d46e0f1280c38c}
       \field{sortinit}{2}
-      \field{labelyear}{2009}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{{AEGIS-X: the Chandra Deep Survey of the Extended Groth Strip}}
+      \field{addendum}{(3, 5, 6)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJS}
       \field{month}{01}
@@ -4377,9 +4148,6 @@
       \strng{namehash}{13df1eadd3d1bc1b8f7f08a02784c596}
       \strng{fullhash}{13df1eadd3d1bc1b8f7f08a02784c596}
       \field{sortinit}{2}
-      \field{labelyear}{2009}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Spitzer Detection of Cepheid Circumstellar Emission}}
       \field{booktitle}{The Evolving ISM in the Milky Way and Nearby Galaxies}
       \field{month}{01}
@@ -4453,10 +4221,8 @@
       \strng{namehash}{87fc4106c187a1aef1633701652f7b70}
       \strng{fullhash}{d65d38baf4a86da53cf9aeceae155824}
       \field{sortinit}{2}
-      \field{labelyear}{2009}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The remnants of galaxy formation from a panoramic survey of the region around M31}}
+      \field{addendum}{(5, 6)}
       \field{eprintclass}{astro-ph.CO}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{Nature}
@@ -4511,9 +4277,6 @@
       \strng{namehash}{c4b32e996990feadfbd6f4ee76178844}
       \strng{fullhash}{c4b32e996990feadfbd6f4ee76178844}
       \field{sortinit}{2}
-      \field{labelyear}{2009}
-      \field{labelmonth}{02}
-      \field{datelabelsource}{}
       \field{labeltitle}{{An HST/WFPC2 survey of bright young clusters in M31. I. VdB0, a massive star cluster seen at t $\sim$ 25 Myr}}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{A\&A}
@@ -4552,8 +4315,6 @@
       \strng{namehash}{f136f21b0d4c6d486438e4acc441f67e}
       \strng{fullhash}{f136f21b0d4c6d486438e4acc441f67e}
       \field{sortinit}{2}
-      \field{labelyear}{2009}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Mid-IR excess in the globular cluster 47 Tuc .}}
       \field{journaltitle}{MemSAI}
       \field{title}{{Mid-IR excess in the globular cluster 47 Tuc .}}
@@ -4582,12 +4343,10 @@
       \strng{namehash}{2e09a59a80c9c06c601bb97509b2cfd5}
       \strng{fullhash}{2e09a59a80c9c06c601bb97509b2cfd5}
       \field{sortinit}{2}
-      \field{labelyear}{2009}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Spitzer Observations of Galactic Classical Cepheids}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#214}
       \field{month}{05}
+      \field{pubstate}{poster}
       \field{title}{{Spitzer Observations of Galactic Classical Cepheids}}
       \field{volume}{214}
       \field{year}{2009}
@@ -4607,13 +4366,10 @@
       \strng{namehash}{47a09f103194d3d80bfaf75bef908949}
       \strng{fullhash}{47a09f103194d3d80bfaf75bef908949}
       \field{sortinit}{2}
-      \field{extrayear}{1}
-      \field{labelyear}{2008}
-      \field{labelmonth}{02}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Nearby Galaxies: Beyond Spitzer and Herschel}}
       \field{booktitle}{Far-Infrared Discipline Working Group meeting}
       \field{month}{02}
+      \field{pubstate}{contributed talk}
       \field{title}{{Nearby Galaxies: Beyond Spitzer and Herschel}}
       \field{year}{2008}
       \keyw{unref}
@@ -4631,13 +4387,10 @@
       \strng{namehash}{47a09f103194d3d80bfaf75bef908949}
       \strng{fullhash}{47a09f103194d3d80bfaf75bef908949}
       \field{sortinit}{2}
-      \field{extrayear}{2}
-      \field{labelyear}{2008}
-      \field{labelmonth}{10}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Star Formation in M31}}
       \field{booktitle}{Ontario Star Formation Jamboree}
       \field{month}{10}
+      \field{pubstate}{contributed talk}
       \field{title}{{Star Formation in M31}}
       \field{year}{2008}
       \keyw{unref}
@@ -4664,10 +4417,8 @@
       \strng{namehash}{62be1e7a872ef36f763ac3abecebcfb2}
       \strng{fullhash}{62be1e7a872ef36f763ac3abecebcfb2}
       \field{sortinit}{2}
-      \field{labelyear}{2008}
-      \field{labelmonth}{08}
-      \field{datelabelsource}{}
       \field{labeltitle}{{A Catalog of Mid-Infrared Sources in the Extended Groth Strip}}
+      \field{addendum}{(1)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJS}
       \field{month}{08}
@@ -4682,6 +4433,40 @@
       \verb 0803.0748
       \endverb
       \keyw{ref,Catalogs,Galaxies: High-Redshift,Infrared: Galaxies,Surveys}
+    \endentry
+    \entry{casca08}{inproceedings}{}
+      \name{labelname}{8}{}{%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d0c41722aa4365ed9aae9d2391d02f8b}{{Marengo}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4ad78af5fd60d99cbeda77bcfdca77e1}{{Fazio}}{F\bibinitperiod}{G.\bibnamedelimi G.}{G\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4082a423c56b0b7d27c7a4d4487ab457}{{van\bibnamedelimb Loon}}{v\bibinitperiod}{J.\bibnamedelimi T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=84e8e8a8e671e4bd7d6150b3ebed49b1}{{Polomski}}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=a9f88f987061717e8a2f9f58bfa6efd1}{{Gehrz}}{G\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=48f2ce77b0a1f5ee1fc1a97774fcdd96}{{Woodward}}{W\bibinitperiod}{C.\bibnamedelimi E.}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=a3281eb285c570db8ee7cab998d97a37}{{Boyer}}{B\bibinitperiod}{M.L.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d0c41722aa4365ed9aae9d2391d02f8b}{{Marengo}}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4ad78af5fd60d99cbeda77bcfdca77e1}{{Fazio}}{F\bibinitperiod}{G.\bibnamedelimi G.}{G\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4082a423c56b0b7d27c7a4d4487ab457}{{van\bibnamedelimb Loon}}{v\bibinitperiod}{J.\bibnamedelimi T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=84e8e8a8e671e4bd7d6150b3ebed49b1}{{Polomski}}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=a9f88f987061717e8a2f9f58bfa6efd1}{{Gehrz}}{G\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=48f2ce77b0a1f5ee1fc1a97774fcdd96}{{Woodward}}{W\bibinitperiod}{C.\bibnamedelimi E.}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=a3281eb285c570db8ee7cab998d97a37}{{Boyer}}{B\bibinitperiod}{M.L.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Victoria}%
+      }
+      \strng{namehash}{57c2781c4c7d48bb933390edf748d04e}
+      \strng{fullhash}{57c2781c4c7d48bb933390edf748d04e}
+      \field{sortinit}{2}
+      \field{labeltitle}{{The elusive intracluster medium in globular clusters}}
+      \field{booktitle}{Canadian Astronomical Society meeting}
+      \field{pubstate}{contributed talk}
+      \field{title}{{The elusive intracluster medium in globular clusters}}
+      \field{year}{2008}
+      \keyw{unref}
     \endentry
     \entry{2008cosp...37..191B}{inproceedings}{}
       \name{labelname}{8}{}{%
@@ -4707,10 +4492,9 @@
       \strng{namehash}{6be06680619d4e8028d60617c888d03b}
       \strng{fullhash}{6be06680619d4e8028d60617c888d03b}
       \field{sortinit}{2}
-      \field{labelyear}{2008}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The elusive intracluster medium in globular clusters}}
       \field{booktitle}{37th COSPAR Scientific Assembly}
+      \field{pubstate}{contributed talk}
       \field{title}{{The elusive intracluster medium in globular clusters}}
       \field{volume}{37}
       \field{year}{2008}
@@ -4757,10 +4541,8 @@
       \strng{namehash}{b7bc9623e7ed4cf15f9050c57ce8bdd9}
       \strng{fullhash}{b7bc9623e7ed4cf15f9050c57ce8bdd9}
       \field{sortinit}{2}
-      \field{labelyear}{2008}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Clusters of Galaxies in the First Half of the Universe from the IRAC Shallow Survey}}
+      \field{addendum}{(5, 6)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
       \field{month}{09}
@@ -4810,10 +4592,8 @@
       \strng{namehash}{24397283f4e585d9abffe1b54c5e5ba6}
       \strng{fullhash}{24397283f4e585d9abffe1b54c5e5ba6}
       \field{sortinit}{2}
-      \field{labelyear}{2008}
-      \field{labelmonth}{04}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The role of AGN in the colour transformation of galaxies at redshifts z \~{} 1}}
+      \field{addendum}{(5, 6)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{MNRAS}
       \field{month}{04}
@@ -4875,10 +4655,8 @@
       \strng{namehash}{19f7f9e42dff1a19fe8527fd1102b962}
       \strng{fullhash}{19f7f9e42dff1a19fe8527fd1102b962}
       \field{sortinit}{2}
-      \field{labelyear}{2008}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The Mid-Infrared Properties of X-Ray Sources}}
+      \field{addendum}{(5, 6)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
       \field{month}{06}
@@ -4934,10 +4712,8 @@
       \strng{namehash}{eea5c25d15bb36f60d7b918c2c801220}
       \strng{fullhash}{eea5c25d15bb36f60d7b918c2c801220}
       \field{sortinit}{2}
-      \field{labelyear}{2008}
-      \field{labelmonth}{11}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Photometry using the Infrared Array Camera on the Spitzer Space Telescope}}
+      \field{addendum}{(4, 5)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{PASP}
       \field{month}{11}
@@ -4982,9 +4758,6 @@
       \strng{namehash}{519e73bdf8fc251263cbbec9633502ab}
       \strng{fullhash}{519e73bdf8fc251263cbbec9633502ab}
       \field{sortinit}{2}
-      \field{labelyear}{2008}
-      \field{labelmonth}{03}
-      \field{datelabelsource}{}
       \field{labeltitle}{{A Spatially Resolved Study of the Cold Dust in NGC\~{}205}}
       \field{booktitle}{Infrared Diagnostics of Galaxy Evolution}
       \field{month}{03}
@@ -5013,10 +4786,8 @@
       \strng{namehash}{ab67aab22c0c94b9eee5fb99f56d693e}
       \strng{fullhash}{ab67aab22c0c94b9eee5fb99f56d693e}
       \field{sortinit}{2}
-      \field{labelyear}{2008}
-      \field{labelmonth}{02}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Structural parameters for globular clusters in NGC 5128 - III. ACS surface brightness profiles and model fits}}
+      \field{addendum}{(5, 6)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{MNRAS}
       \field{month}{02}
@@ -5056,10 +4827,8 @@
       \strng{namehash}{e90a549d48f0d2f024044ae484b9f775}
       \strng{fullhash}{e90a549d48f0d2f024044ae484b9f775}
       \field{sortinit}{2}
-      \field{labelyear}{2008}
-      \field{labelmonth}{11}
-      \field{datelabelsource}{}
       \field{labeltitle}{{A Point-Source Survey of M31 with the Spitzer Space Telescope}}
+      \field{addendum}{(4, 5, 6)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
       \field{month}{11}
@@ -5109,10 +4878,8 @@
       \strng{namehash}{a4195b37b22b21a8353752ea6398ff3a}
       \strng{fullhash}{a4195b37b22b21a8353752ea6398ff3a}
       \field{sortinit}{2}
-      \field{labelyear}{2008}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{AEGIS: Radio and Mid-Infrared Selection of Obscured AGN Candidates}}
+      \field{addendum}{(3, 4)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
       \field{month}{05}
@@ -5154,12 +4921,10 @@
       \strng{namehash}{78d8232baa8b2179054e8d2d00fa8f32}
       \strng{fullhash}{78d8232baa8b2179054e8d2d00fa8f32}
       \field{sortinit}{2}
-      \field{labelyear}{2008}
-      \field{labelmonth}{03}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Supersoft Sources and Quasisoft Sources in M31: The Stellar Populations in which they Live}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#211}
       \field{month}{03}
+      \field{pubstate}{poster}
       \field{title}{{Supersoft Sources and Quasisoft Sources in M31: The Stellar Populations in which they Live}}
       \field{volume}{211}
       \field{year}{2008}
@@ -5179,13 +4944,11 @@
       \strng{namehash}{47a09f103194d3d80bfaf75bef908949}
       \strng{fullhash}{47a09f103194d3d80bfaf75bef908949}
       \field{sortinit}{2}
-      \field{labelyear}{2007}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Conference Summary (invited review)}}
+      \field{labeltitle}{{Conference Summary}}
       \field{booktitle}{``The Evolving ISM in the Milky Way and Nearby Galaxies''}
       \field{month}{12}
-      \field{title}{{Conference Summary (invited review)}}
+      \field{pubstate}{invited review}
+      \field{title}{{Conference Summary}}
       \field{year}{2007}
       \keyw{unref}
     \endentry
@@ -5218,12 +4981,10 @@
       \strng{namehash}{f38ef811e42c643b216a843ac4961303}
       \strng{fullhash}{f38ef811e42c643b216a843ac4961303}
       \field{sortinit}{2}
-      \field{labelyear}{2007}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Initial Views of M31's Mysterious PAHs}}
       \field{booktitle}{``The Evolving ISM in the Milky Way and Nearby Galaxies''}
       \field{month}{12}
+      \field{pubstate}{poster}
       \field{title}{{Initial Views of M31's Mysterious PAHs}}
       \field{year}{2007}
       \keyw{unref}
@@ -5246,10 +5007,8 @@
       \strng{namehash}{3e1a1dd35d2516c1875bdb1d01e45ee7}
       \strng{fullhash}{3e1a1dd35d2516c1875bdb1d01e45ee7}
       \field{sortinit}{2}
-      \field{labelyear}{2007}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Structural Parameters for Globular Clusters in M31 and Generalizations for the Fundamental Plane}}
+      \field{addendum}{(1)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{AJ}
       \field{month}{06}
@@ -5385,10 +5144,8 @@
       \strng{namehash}{6b0ff1849a2c2f28908acd52a90c3d53}
       \strng{fullhash}{501e4bbbebc8599a8ced0aa86f215306}
       \field{sortinit}{2}
-      \field{labelyear}{2007}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The All-Wavelength Extended Groth Strip International Survey (AEGIS) Data Sets}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJL}
       \field{month}{05}
       \field{title}{{The All-Wavelength Extended Groth Strip International Survey (AEGIS) Data Sets}}
@@ -5423,12 +5180,10 @@
       \strng{namehash}{55a4832cd0dd66643c3657bc415fdab4}
       \strng{fullhash}{55a4832cd0dd66643c3657bc415fdab4}
       \field{sortinit}{2}
-      \field{labelyear}{2007}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Spitzer Observations of Classical Cepheids}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#210}
       \field{month}{05}
+      \field{pubstate}{poster}
       \field{title}{{Spitzer Observations of Classical Cepheids}}
       \field{volume}{39}
       \field{year}{2007}
@@ -5479,10 +5234,8 @@
       \strng{namehash}{828db232041291066951831949d114cc}
       \strng{fullhash}{828db232041291066951831949d114cc}
       \field{sortinit}{2}
-      \field{labelyear}{2007}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The DEEP2 Galaxy Redshift Survey: AEGIS Observations of a Dual AGN at z = 0.7}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJL}
       \field{month}{05}
       \field{title}{{The DEEP2 Galaxy Redshift Survey: AEGIS Observations of a Dual AGN at z = 0.7}}
@@ -5543,10 +5296,8 @@
       \strng{namehash}{5b2ad274c9bbdf9e1cbe5540c7939dbf}
       \strng{fullhash}{5b2ad274c9bbdf9e1cbe5540c7939dbf}
       \field{sortinit}{2}
-      \field{labelyear}{2007}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{AEGIS: Infrared Spectroscopy of an Infrared-luminous Lyman Break Galaxy at z=3.01}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJL}
       \field{month}{05}
       \field{title}{{AEGIS: Infrared Spectroscopy of an Infrared-luminous Lyman Break Galaxy at z=3.01}}
@@ -5611,10 +5362,8 @@
       \strng{namehash}{6ec0b564f7f369f6519e7c64614dd9b2}
       \strng{fullhash}{bf4fc1a5309ff40b06b7fda6303f46f7}
       \field{sortinit}{2}
-      \field{labelyear}{2007}
-      \field{labelmonth}{08}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The Local Galaxy 8 {$\mu$}m Luminosity Function}}
+      \field{addendum}{(5, 6)}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{ApJ}
       \field{month}{08}
@@ -5692,10 +5441,8 @@
       \strng{namehash}{2ad8bb447c981533ac6e64a2f9a25fc8}
       \strng{fullhash}{2ee6a719e8bdc6417127fa46768199d7}
       \field{sortinit}{2}
-      \field{labelyear}{2007}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Far-Infrared Characterization of an Ultraluminous Starburst Associated with a Massively Accreting Black Hole at z=1.15}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJL}
       \field{month}{05}
       \field{title}{{Far-Infrared Characterization of an Ultraluminous Starburst Associated with a Massively Accreting Black Hole at z=1.15}}
@@ -5737,9 +5484,6 @@
       \strng{namehash}{17bda637afd3967351605a3e2a4e04bd}
       \strng{fullhash}{17bda637afd3967351605a3e2a4e04bd}
       \field{sortinit}{2}
-      \field{labelyear}{2007}
-      \field{labelmonth}{11}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Spitzer/IRAC Characterization of Galactic AGB Stars}}
       \field{booktitle}{Why Galaxies Care About AGB Stars: Their Importance as Actors and Probes}
       \field{month}{11}
@@ -5819,10 +5563,8 @@
       \strng{namehash}{c2524238f21287dffab3f6958aea49b4}
       \strng{fullhash}{d06bff643bee8b89578bea11183a9103}
       \field{sortinit}{2}
-      \field{labelyear}{2007}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Star Formation in AEGIS Field Galaxies since z=1.1: The Dominance of Gradually Declining Star Formation, and the Main Sequence of Star-forming Galaxies}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJL}
       \field{month}{05}
       \field{title}{{Star Formation in AEGIS Field Galaxies since z=1.1: The Dominance of Gradually Declining Star Formation, and the Main Sequence of Star-forming Galaxies}}
@@ -5883,10 +5625,8 @@
       \strng{namehash}{f14cecd438117947abb68b1ba5f500e5}
       \strng{fullhash}{f14cecd438117947abb68b1ba5f500e5}
       \field{sortinit}{2}
-      \field{labelyear}{2007}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{AEGIS: Host Galaxy Morphologies of X-Ray-selected and Infrared-selected Active Galactic Nuclei at {$0.2<z<1.2$}}}
+      \field{addendum}{(3, 5, 6)}
       \field{journaltitle}{ApJL}
       \field{month}{05}
       \field{title}{{AEGIS: Host Galaxy Morphologies of X-Ray-selected and Infrared-selected Active Galactic Nuclei at {$0.2<z<1.2$}}}
@@ -5949,9 +5689,6 @@
       \strng{namehash}{3f6fe9172aad113f28c4339114edad67}
       \strng{fullhash}{3f6fe9172aad113f28c4339114edad67}
       \field{sortinit}{2}
-      \field{labelyear}{2007}
-      \field{labelmonth}{04}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Host Galaxy Morphologies of X-Ray and Optical Spectra-Selected Active Galactic}}
       \field{booktitle}{Space Telescope Science Institute Symposium: Black Holes}
       \field{month}{04}
@@ -6007,9 +5744,6 @@
       \strng{namehash}{733f3b6bd2b6c00583d42dc8efc0d99f}
       \strng{fullhash}{733f3b6bd2b6c00583d42dc8efc0d99f}
       \field{sortinit}{2}
-      \field{labelyear}{2007}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The Herschel Reference Bright Galaxy Survey}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{12}
@@ -6051,10 +5785,8 @@
       \strng{namehash}{7c8671fd7d0a91fc7dddd2f94243505d}
       \strng{fullhash}{7c8671fd7d0a91fc7dddd2f94243505d}
       \field{sortinit}{2}
-      \field{labelyear}{2007}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{AEGIS: Infrared Spectral Energy Distributions of MIPS 70 {$\mu$}m-selected Sources}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJL}
       \field{month}{05}
       \field{title}{{AEGIS: Infrared Spectral Energy Distributions of MIPS 70 {$\mu$}m-selected Sources}}
@@ -6117,10 +5849,8 @@
       \strng{namehash}{09e6abf22b989eb71303a895c6634691}
       \strng{fullhash}{09e6abf22b989eb71303a895c6634691}
       \field{sortinit}{2}
-      \field{labelyear}{2007}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{AEGIS: A Panchromatic Study of IRAC-selected Extremely Red Objects with Confirmed Spectroscopic Redshifts}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJL}
       \field{month}{05}
       \field{title}{{AEGIS: A Panchromatic Study of IRAC-selected Extremely Red Objects with Confirmed Spectroscopic Redshifts}}
@@ -6173,10 +5903,8 @@
       \strng{namehash}{2c04345fa647b10e9ff790e75fa7306e}
       \strng{fullhash}{2c04345fa647b10e9ff790e75fa7306e}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{03}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Infrared Power-Law Galaxies in the Chandra Deep Field-South: Active Galactic Nuclei and Ultraluminous Infrared Galaxies}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJ}
       \field{month}{03}
       \field{title}{{Infrared Power-Law Galaxies in the Chandra Deep Field-South: Active Galactic Nuclei and Ultraluminous Infrared Galaxies}}
@@ -6231,10 +5959,8 @@
       \strng{namehash}{db4c41c06bd0a7d7d0bbf08d2994069c}
       \strng{fullhash}{db4c41c06bd0a7d7d0bbf08d2994069c}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Mid-Infrared Identifications of SCUBA Galaxies in the CUDSS 14 Hour Field with the Spitzer Space Telescope}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJ}
       \field{month}{06}
       \field{title}{{Mid-Infrared Identifications of SCUBA Galaxies in the CUDSS 14 Hour Field with the Spitzer Space Telescope}}
@@ -6275,9 +6001,6 @@
       \strng{namehash}{e55bb63683de71e1e919cf65dd6087c2}
       \strng{fullhash}{e55bb63683de71e1e919cf65dd6087c2}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{A Search for Faint, Diffuse Halo Emission in Edge-On Galaxies with Spitzer/IRAC}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{12}
@@ -6327,9 +6050,6 @@
       \strng{namehash}{2ac3ffbc0daf9a8a4c1a2d6093f688d8}
       \strng{fullhash}{2ac3ffbc0daf9a8a4c1a2d6093f688d8}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Identifying SCUBA Galaxies with Spitzer Observations of the CUDSS 14 h Field}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#208}
       \field{month}{06}
@@ -6377,10 +6097,8 @@
       \strng{namehash}{5ecad421a65cd879ba9d6ef32b128323}
       \strng{fullhash}{5ecad421a65cd879ba9d6ef32b128323}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Mid-Infrared Properties of X-Ray Sources in the Extended Groth Strip}}
+      \field{addendum}{(1,6)}
       \field{journaltitle}{ApJ}
       \field{month}{05}
       \field{title}{{Mid-Infrared Properties of X-Ray Sources in the Extended Groth Strip}}
@@ -6435,10 +6153,8 @@
       \strng{namehash}{68b992018ca8304e3e930942ee42873d}
       \strng{fullhash}{68b992018ca8304e3e930942ee42873d}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{10}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Dusty Waves on a Starry Sea: The Mid-Infrared View of M31}}
+      \field{addendum}{(1,6)}
       \field{journaltitle}{ApJL}
       \field{month}{10}
       \field{title}{{Dusty Waves on a Starry Sea: The Mid-Infrared View of M31}}
@@ -6493,9 +6209,6 @@
       \strng{namehash}{172fc76e3aa09777c50f0978d1659d6f}
       \strng{fullhash}{172fc76e3aa09777c50f0978d1659d6f}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Mid-infrared Observations Of M31}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#208}
       \field{month}{06}
@@ -6523,9 +6236,6 @@
       \strng{namehash}{902424a07511507da2eacfeaed411ab8}
       \strng{fullhash}{902424a07511507da2eacfeaed411ab8}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Spitzer Observations of Galactic Globular Clusters}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{12}
@@ -6551,10 +6261,8 @@
       \strng{namehash}{0ec637500833962a1507fc4836d6cf2a}
       \strng{fullhash}{0ec637500833962a1507fc4836d6cf2a}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{08}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Hubble Space Telescope Observations of Star Clusters in M101}}
+      \field{addendum}{(1,6)}
       \field{journaltitle}{AJ}
       \field{month}{08}
       \field{title}{{Hubble Space Telescope Observations of Star Clusters in M101}}
@@ -6595,10 +6303,8 @@
       \strng{namehash}{df81c2f48ca89de00243b3e2a25de174}
       \strng{fullhash}{df81c2f48ca89de00243b3e2a25de174}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{10}
-      \field{datelabelsource}{}
       \field{labeltitle}{{An almost head-on collision as the origin of two off-centre rings in the Andromeda galaxy}}
+      \field{addendum}{(3, 5, 6)}
       \field{journaltitle}{Nature}
       \field{month}{10}
       \field{title}{{An almost head-on collision as the origin of two off-centre rings in the Andromeda galaxy}}
@@ -6663,10 +6369,8 @@
       \strng{namehash}{79a9446f68b991492a022689dd8a4daa}
       \strng{fullhash}{a16226e3dba9559e48dbc20be0eb6cbf}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{02}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Understanding Radio-selected Thermal Sources in M33: Ultraviolet, Optical, Near-Infrared, Spitzer Mid-Infrared, and Radio Observations}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJS}
       \field{month}{02}
       \field{title}{{Understanding Radio-selected Thermal Sources in M33: Ultraviolet, Optical, Near-Infrared, Spitzer Mid-Infrared, and Radio Observations}}
@@ -6711,10 +6415,8 @@
       \strng{namehash}{c792517abb71b4568cb4251ada2f2eb6}
       \strng{fullhash}{c792517abb71b4568cb4251ada2f2eb6}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{An Investigation of the Submillimeter Background Radiation Using SCUBA and Spitzer}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJ}
       \field{month}{06}
       \field{title}{{An Investigation of the Submillimeter Background Radiation Using SCUBA and Spitzer}}
@@ -6759,9 +6461,6 @@
       \strng{namehash}{92e799d9b2253363833173a71de29b84}
       \strng{fullhash}{92e799d9b2253363833173a71de29b84}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Clusters of Galaxies in the First Half of the Universe from the IRAC Shallow Survey}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{12}
@@ -6803,10 +6502,8 @@
       \strng{namehash}{d57f4ecb16291dd621ab555aaa0d115a}
       \strng{fullhash}{d57f4ecb16291dd621ab555aaa0d115a}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{A deep Chandra survey of the Groth Strip - II. Optical identification of the X-ray sources}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{MNRAS}
       \field{month}{09}
       \field{title}{{A deep Chandra survey of the Groth Strip - II. Optical identification of the X-ray sources}}
@@ -6867,10 +6564,8 @@
       \strng{namehash}{d2e7c0c7971e18d6aeb00327fb77dc5d}
       \strng{fullhash}{d2e7c0c7971e18d6aeb00327fb77dc5d}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{02}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Spitzer MIPS Infrared Imaging of M31: Further Evidence for a Spiral-Ring Composite Structure}}
+      \field{addendum}{(5)}
       \field{journaltitle}{ApJL}
       \field{month}{02}
       \field{title}{{Spitzer MIPS Infrared Imaging of M31: Further Evidence for a Spiral-Ring Composite Structure}}
@@ -6929,9 +6624,6 @@
       \strng{namehash}{52a16c496bb77ee965de2fa1553fc2a8}
       \strng{fullhash}{52a16c496bb77ee965de2fa1553fc2a8}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Mid-Infrared Properties of X-ray Sources}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{12}
@@ -6959,10 +6651,8 @@
       \strng{namehash}{132c8395b972ce07a60abe8e4a1e78cf}
       \strng{fullhash}{132c8395b972ce07a60abe8e4a1e78cf}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{11}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Structural Parameters for Globular Clusters in NGC 5128. II. Hubble Space Telescope ACS Imaging and New Clusters}}
+      \field{addendum}{(4, 5, 6)}
       \field{journaltitle}{AJ}
       \field{month}{11}
       \field{title}{{Structural Parameters for Globular Clusters in NGC 5128. II. Hubble Space Telescope ACS Imaging and New Clusters}}
@@ -7153,10 +6843,8 @@
       \strng{namehash}{2dd29a21468add8cb58183d1960270e2}
       \strng{fullhash}{bb0b3252708398ea61f224da09ddc661}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{{UBVRI Light Curves of 44 Type Ia Supernovae}}
+      \field{addendum}{(6)}
       \field{journaltitle}{AJ}
       \field{month}{01}
       \field{title}{{UBVRI Light Curves of 44 Type Ia Supernovae}}
@@ -7201,10 +6889,8 @@
       \strng{namehash}{ee0f85080bbe079c5bc15b60f71386e7}
       \strng{fullhash}{ee0f85080bbe079c5bc15b60f71386e7}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{08}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Mapping and Mass Measurement of the Cold Dust in NGC 205 with Spitzer}}
+      \field{addendum}{(3, 5, 6)}
       \field{journaltitle}{ApJ}
       \field{month}{08}
       \field{title}{{Mapping and Mass Measurement of the Cold Dust in NGC 205 with Spitzer}}
@@ -7237,10 +6923,8 @@
       \strng{namehash}{1b56f220a48cf81682b1653bfb374519}
       \strng{fullhash}{1b56f220a48cf81682b1653bfb374519}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{03}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Nearby Spiral Globular Cluster Systems. I. Luminosity Functions}}
+      \field{addendum}{(3, 4,6)}
       \field{journaltitle}{AJ}
       \field{month}{03}
       \field{title}{{Nearby Spiral Globular Cluster Systems. I. Luminosity Functions}}
@@ -7304,9 +6988,6 @@
       \strng{namehash}{2cea1e2af36649f7f2fcacfe87b2a8e1}
       \strng{fullhash}{2cea1e2af36649f7f2fcacfe87b2a8e1}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Multi-Epoch Imaging and Spectroscopy of M33}}
       \field{booktitle}{Astronomical Society of the Pacific Conference Series}
       \field{month}{12}
@@ -7344,9 +7025,6 @@
       \strng{namehash}{913c8398db91f3752ead9e0c7612739c}
       \strng{fullhash}{913c8398db91f3752ead9e0c7612739c}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Optically-Faint AGN with Spitzer: SEDs, Redshifts, Luminosities, and Space Densities}}
       \field{booktitle}{Astronomical Society of the Pacific Conference Series}
       \field{month}{12}
@@ -7390,10 +7068,8 @@
       \strng{namehash}{839fef64e0dd4ff7af32cd689e7188b9}
       \strng{fullhash}{839fef64e0dd4ff7af32cd689e7188b9}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Spitzer Observations of z \~{} 3 Lyman Break Galaxies: Stellar Masses and Mid-Infrared Properties}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJ}
       \field{month}{09}
       \field{title}{{Spitzer Observations of z \~{} 3 Lyman Break Galaxies: Stellar Masses and Mid-Infrared Properties}}
@@ -7428,9 +7104,6 @@
       \strng{namehash}{3307476d5e7f9c7c55d36de9b498d274}
       \strng{fullhash}{3307476d5e7f9c7c55d36de9b498d274}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The Search for Optical Counterparts to Supersoft X-ray Sources near the Nucleus of M31}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{12}
@@ -7468,10 +7141,8 @@
       \strng{namehash}{cab4c8d8569aa573529996aed936972d}
       \strng{fullhash}{cab4c8d8569aa573529996aed936972d}
       \field{sortinit}{2}
-      \field{labelyear}{2006}
-      \field{labelmonth}{11}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Mid-Infrared Identification of 6 cm Radio-Source Counterparts in the Extended Groth Strip}}
+      \field{addendum}{(4, 5, 6)}
       \field{journaltitle}{AJ}
       \field{month}{11}
       \field{title}{{Mid-Infrared Identification of 6 cm Radio-Source Counterparts in the Extended Groth Strip}}
@@ -7501,9 +7172,6 @@
       \strng{namehash}{516725b701e3c665ab6c6fd96c68dc51}
       \strng{fullhash}{516725b701e3c665ab6c6fd96c68dc51}
       \field{sortinit}{2}
-      \field{labelyear}{2005}
-      \field{labelmonth}{11}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Mid-Infrared Properties of X--ray Sources in the Extended Groth Strip}}
       \field{booktitle}{``Infrared Diagnostics of Galaxy Formation''}
       \field{month}{11}
@@ -7533,9 +7201,6 @@
       \strng{namehash}{680ba0d4343cdded7d76ac0bc612dda6}
       \strng{fullhash}{680ba0d4343cdded7d76ac0bc612dda6}
       \field{sortinit}{2}
-      \field{labelyear}{2005}
-      \field{labelmonth}{03}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The Chemical Properties of Milky Way and M31 Globular Clusters. II. Stellar Population Model Predictions}}
       \field{journaltitle}{AJ}
       \field{month}{03}
@@ -7605,9 +7270,6 @@
       \strng{namehash}{9a84d1020c3d43e30fb3703b2e0b6dcf}
       \strng{fullhash}{a02fc6e41fa3bd583b3f4972c28a60da}
       \field{sortinit}{2}
-      \field{labelyear}{2005}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Spitzer imagery of embedded ultra-young star clusters in M33}}
       \field{booktitle}{Starbursts: From 30 Doradus to Lyman Break Galaxies}
       \field{month}{05}
@@ -7642,10 +7304,8 @@
       \strng{namehash}{dcea79c77aa5d75f1e1a02671e7effab}
       \strng{fullhash}{dcea79c77aa5d75f1e1a02671e7effab}
       \field{sortinit}{2}
-      \field{labelyear}{2005}
-      \field{labelmonth}{10}
-      \field{datelabelsource}{}
       \field{labeltitle}{{A Possible Detection of M31* with Chandra}}
+      \field{addendum}{(4, 5)}
       \field{journaltitle}{ApJ}
       \field{month}{10}
       \field{title}{{A Possible Detection of M31* with Chandra}}
@@ -7710,9 +7370,6 @@
       \strng{namehash}{ba09c144891c48827c1c8a9fccb95188}
       \strng{fullhash}{6b378bcbb773b972c44fb51151b39a15}
       \field{sortinit}{2}
-      \field{labelyear}{2005}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Spitzer Images and Spectroscopy of M33}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#206}
       \field{month}{05}
@@ -7760,10 +7417,8 @@
       \strng{namehash}{226bd50c1f88fda45cffdb34b9e2709b}
       \strng{fullhash}{226bd50c1f88fda45cffdb34b9e2709b}
       \field{sortinit}{2}
-      \field{labelyear}{2005}
-      \field{labelmonth}{11}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Infrared Luminous Lyman Break Galaxies: A Population that Bridges LBGs and SCUBA Galaxies}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJ}
       \field{month}{11}
       \field{title}{{Infrared Luminous Lyman Break Galaxies: A Population that Bridges LBGs and SCUBA Galaxies}}
@@ -7814,10 +7469,8 @@
       \strng{namehash}{3fc55b410ee76bddac8525ed58cdd649}
       \strng{fullhash}{3fc55b410ee76bddac8525ed58cdd649}
       \field{sortinit}{2}
-      \field{labelyear}{2005}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{IRAC Mid-Infrared Imaging of the Hubble Deep Field-South: Star Formation Histories and Stellar Masses of Red Galaxies at {$z>2$}}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJL}
       \field{month}{05}
       \field{title}{{IRAC Mid-Infrared Imaging of the Hubble Deep Field-South: Star Formation Histories and Stellar Masses of Red Galaxies at {$z>2$}}}
@@ -7868,9 +7521,6 @@
       \strng{namehash}{3f4a73ee689cf0186e94414713b579a1}
       \strng{fullhash}{3f4a73ee689cf0186e94414713b579a1}
       \field{sortinit}{2}
-      \field{labelyear}{2005}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Spitzer View on the Evolution of Star-forming Galaxies from z = 0 to z \~{} 3}}
       \field{journaltitle}{ApJ}
       \field{month}{09}
@@ -7942,9 +7592,6 @@
       \strng{namehash}{07b100c89da59f0a436d1121629dd73f}
       \strng{fullhash}{554cdf65e67ec7380a0e42a16a579653}
       \field{sortinit}{2}
-      \field{labelyear}{2005}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Cosmological Surveys with the Spitzer Space Telescope}}
       \field{booktitle}{Revista Mexicana de Astronomia y Astrofisica Conference Series}
       \field{month}{12}
@@ -7988,10 +7635,8 @@
       \strng{namehash}{9db8b5f4d612eb3f1b7a6525051bc7a3}
       \strng{fullhash}{9db8b5f4d612eb3f1b7a6525051bc7a3}
       \field{sortinit}{2}
-      \field{labelyear}{2005}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Absolute Calibration of the Infrared Array Camera on the Spitzer Space Telescope}}
+      \field{addendum}{(4, 5)}
       \field{journaltitle}{PASP}
       \field{month}{09}
       \field{title}{{Absolute Calibration of the Infrared Array Camera on the Spitzer Space Telescope}}
@@ -8030,10 +7675,8 @@
       \strng{namehash}{0a18a5aa5e32a8303fcf5ec76bf1c9a4}
       \strng{fullhash}{0a18a5aa5e32a8303fcf5ec76bf1c9a4}
       \field{sortinit}{2}
-      \field{labelyear}{2005}
-      \field{labelmonth}{07}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Why Optically Faint AGNs Are Optically Faint: The Spitzer Perspective}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJ}
       \field{month}{07}
       \field{title}{{Why Optically Faint AGNs Are Optically Faint: The Spitzer Perspective}}
@@ -8072,10 +7715,8 @@
       \strng{namehash}{78b08766639ebed1f79bba591d560b20}
       \strng{fullhash}{78b08766639ebed1f79bba591d560b20}
       \field{sortinit}{2}
-      \field{labelyear}{2005}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Ultraviolet to Mid-Infrared Observations of Star-forming Galaxies at z\~{}2: Stellar Masses and Stellar Populations}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJ}
       \field{month}{06}
       \field{title}{{Ultraviolet to Mid-Infrared Observations of Star-forming Galaxies at z\~{}2: Stellar Masses and Stellar Populations}}
@@ -8135,9 +7776,6 @@
       \strng{namehash}{c9cec71c0d8fbe88a06a27d81ac5f1bc}
       \strng{fullhash}{c9cec71c0d8fbe88a06a27d81ac5f1bc}
       \field{sortinit}{2}
-      \field{labelyear}{2005}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Star formation as seen by the Infrared Array Camera on Spitzer}}
       \field{booktitle}{ESA Special Publication}
       \field{month}{01}
@@ -8218,10 +7856,8 @@
       \strng{namehash}{0214afa2ba7491f20279ac8c83a14efb}
       \strng{fullhash}{d41593e856d497e412463e9da3fb4e36}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The Nature of Luminous X-Ray Sources with Mid-Infrared Counterparts}}
+      \field{addendum}{(4, 5, 6)}
       \field{journaltitle}{ApJS}
       \field{month}{09}
       \field{title}{{The Nature of Luminous X-Ray Sources with Mid-Infrared Counterparts}}
@@ -8264,9 +7900,6 @@
       \strng{namehash}{d69405485170002be5eaf7b291689d17}
       \strng{fullhash}{d69405485170002be5eaf7b291689d17}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Mid-Infrared Observations of Extended Light in the Spiral Galaxy NGC 5907}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{12}
@@ -8305,9 +7938,6 @@
       \strng{namehash}{c61475b98651161ebff224015e4a2061}
       \strng{fullhash}{c61475b98651161ebff224015e4a2061}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Mid-Infrared Observations of the Halo of NGC 5907}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#204}
       \field{month}{05}
@@ -8336,9 +7966,6 @@
       \strng{namehash}{a22faac7a332b715afb8e93d52bcb371}
       \strng{fullhash}{a22faac7a332b715afb8e93d52bcb371}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Deep Mid-infrared Imaging with the Spitzer Space Telescope}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{06}
@@ -8390,10 +8017,8 @@
       \strng{namehash}{779ff0387c0b7fcd40b7c24368f87c84}
       \strng{fullhash}{779ff0387c0b7fcd40b7c24368f87c84}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Deep Mid-Infrared Observations of Lyman Break Galaxies}}
+      \field{addendum}{(1,6)}
       \field{journaltitle}{ApJS}
       \field{month}{09}
       \field{title}{{Deep Mid-Infrared Observations of Lyman Break Galaxies}}
@@ -8427,12 +8052,10 @@
       \strng{namehash}{638e118c514b1263bfb647a32fecdccc}
       \strng{fullhash}{638e118c514b1263bfb647a32fecdccc}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Doing Science with the Spitzer Space Telescope}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{06}
+      \field{pubstate}{poster}
       \field{title}{{Doing Science with the Spitzer Space Telescope}}
       \field{year}{2004}
       \keyw{unref}
@@ -8457,9 +8080,6 @@
       \strng{namehash}{27f74fac030b0e0673192f05bdcc0485}
       \strng{fullhash}{27f74fac030b0e0673192f05bdcc0485}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{SIP: a modern flexible data pipeline}}
       \field{booktitle}{Optimizing Scientific Return for Astronomy through Information Technologies}
       \field{month}{09}
@@ -8495,10 +8115,8 @@
       \strng{namehash}{680ba0d4343cdded7d76ac0bc612dda6}
       \strng{fullhash}{680ba0d4343cdded7d76ac0bc612dda6}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{10}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The Chemical Properties of Milky Way and M31 Globular Clusters. I. A Comparative Study}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{AJ}
       \field{month}{10}
       \field{title}{{The Chemical Properties of Milky Way and M31 Globular Clusters. I. A Comparative Study}}
@@ -8582,9 +8200,6 @@
       \strng{namehash}{7f45d045b1f311cf07537fa220667cbe}
       \strng{fullhash}{9dab31a95c6ef55b30223159ddf51023}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{10}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Observing with the infrared array camera (IRAC) on the Spitzer Space Telescope}}
       \field{booktitle}{Optical, Infrared, and Millimeter Space Telescopes}
       \field{month}{10}
@@ -8630,10 +8245,8 @@
       \strng{namehash}{c009ef272112d5e71a62568a8f53244d}
       \strng{fullhash}{c009ef272112d5e71a62568a8f53244d}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{07}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Supersoft X-Ray Sources in M31. I. A Chandra Survey and an Extension to Quasi-soft Sources}}
+      \field{addendum}{(4, 5)}
       \field{journaltitle}{ApJ}
       \field{month}{07}
       \field{title}{{Supersoft X-Ray Sources in M31. I. A Chandra Survey and an Extension to Quasi-soft Sources}}
@@ -8710,10 +8323,8 @@
       \strng{namehash}{08e1bd660f0a61b1f053e85e06987157}
       \strng{fullhash}{40a7cadef417b4f62e896076d1815b50}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Spitzer Observations of the SCUBA/VLA Sources in the Lockman Hole: Star Formation History of Infrared-Luminous Galaxies}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJS}
       \field{month}{09}
       \field{title}{{Spitzer Observations of the SCUBA/VLA Sources in the Lockman Hole: Star Formation History of Infrared-Luminous Galaxies}}
@@ -8790,10 +8401,8 @@
       \strng{namehash}{bd275a26dd516b0c1e8b0b13ec4637d9}
       \strng{fullhash}{a99078725acd850f09346a823e05f260}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The Infrared Array Camera (IRAC) Shallow Survey}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJS}
       \field{month}{09}
       \field{title}{{The Infrared Array Camera (IRAC) Shallow Survey}}
@@ -8843,10 +8452,8 @@
       \strng{namehash}{bebcea4789e346254620c2dd14244231}
       \strng{fullhash}{bebcea4789e346254620c2dd14244231}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Number Counts at {$3\mu{\rm m}< \lambda <10\mu{\rm m}$} from the Spitzer Space Telescope}}
+      \field{addendum}{(3, 4,6)}
       \field{journaltitle}{ApJS}
       \field{month}{09}
       \field{title}{{Number Counts at {$3\mu{\rm m}< \lambda <10\mu{\rm m}$} from the Spitzer Space Telescope}}
@@ -8945,10 +8552,6 @@
       \strng{namehash}{9f4570a9e7f169378bf4ba7bdc1bea61}
       \strng{fullhash}{f8d489b6dcdb70c33f28bafb86f985ee}
       \field{sortinit}{2}
-      \field{extrayear}{1}
-      \field{labelyear}{2004}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{In-Flight Performance of the Infrared Array Camera (IRAC) for the Spitzer Space Telescope}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#204}
       \field{month}{05}
@@ -9096,11 +8699,8 @@
       \strng{namehash}{9f4570a9e7f169378bf4ba7bdc1bea61}
       \strng{fullhash}{c14a95051c0eb9973ab4765eff828b31}
       \field{sortinit}{2}
-      \field{extrayear}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The Infrared Array Camera (IRAC) for the Spitzer Space Telescope}}
+      \field{addendum}{(4, 5)}
       \field{journaltitle}{ApJS}
       \field{month}{09}
       \field{title}{{The Infrared Array Camera (IRAC) for the Spitzer Space Telescope}}
@@ -9163,9 +8763,6 @@
       \strng{namehash}{cf406fae9995168715824b234a5bedb1}
       \strng{fullhash}{cf406fae9995168715824b234a5bedb1}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The Multiwavelength View of M31 including New Spitzer/MIPS Infrared Images}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{12}
@@ -9273,9 +8870,6 @@
       \strng{namehash}{d8eea060cb1c4e80e5e070ab85209994}
       \strng{fullhash}{26b1774feb1b9345e12df86a9605d722}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{10}
-      \field{datelabelsource}{}
       \field{labeltitle}{{In-flight performance and calibration of the Infrared Array Camera (IRAC) for the Spitzer Space Telescope}}
       \field{booktitle}{Optical, Infrared, and Millimeter Space Telescopes}
       \field{month}{10}
@@ -9340,10 +8934,8 @@
       \strng{namehash}{6a35915633281ff0fa340807a89533a2}
       \strng{fullhash}{6a35915633281ff0fa340807a89533a2}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Infrared Array Camera (IRAC) Imaging of the Lockman Hole}}
+      \field{addendum}{(3, 4,6)}
       \field{journaltitle}{ApJS}
       \field{month}{09}
       \field{title}{{Infrared Array Camera (IRAC) Imaging of the Lockman Hole}}
@@ -9421,10 +9013,8 @@
       \strng{namehash}{e9a57d167f3ecba9b7c1807760db9237}
       \strng{fullhash}{e4311d92203fe7ac2d1483d436407134}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Spitzer Observations of MAMBO Galaxies: Weeding Out Active Nuclei in Starbursting Protoellipticals}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJS}
       \field{month}{09}
       \field{title}{{Spitzer Observations of MAMBO Galaxies: Weeding Out Active Nuclei in Starbursting Protoellipticals}}
@@ -9501,13 +9091,11 @@
       \strng{namehash}{2ad8bb447c981533ac6e64a2f9a25fc8}
       \strng{fullhash}{1c2900afdf3daf439ccc0090727cf21b}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Identification of Luminous Infrared Galaxies at {$1<z<1,2,3,4$}}}
+      \field{labeltitle}{{Identification of Luminous Infrared Galaxies at {$1<z<1,2,3, 4$}}}
+      \field{addendum}{(4, 5, 6)}
       \field{journaltitle}{ApJS}
       \field{month}{09}
-      \field{title}{{Identification of Luminous Infrared Galaxies at {$1<z<1,2,3,4$}}}
+      \field{title}{{Identification of Luminous Infrared Galaxies at {$1<z<1,2,3, 4$}}}
       \field{volume}{154}
       \field{year}{2004}
       \field{pages}{170\bibrangedash 173}
@@ -9565,9 +9153,6 @@
       \strng{namehash}{d73edce440dcc2d9878dad3f654d1ee7}
       \strng{fullhash}{d73edce440dcc2d9878dad3f654d1ee7}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{IRAC Extragalactic GTO Program: From Nearby Galaxies to the High Redshift Universe}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#204}
       \field{month}{05}
@@ -9600,9 +9185,6 @@
       \strng{namehash}{d62999825b0df13bde022484206fdfad}
       \strng{fullhash}{d62999825b0df13bde022484206fdfad}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{10}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Normal and unusual transient events in IRAC images}}
       \field{booktitle}{Optical, Infrared, and Millimeter Space Telescopes}
       \field{month}{10}
@@ -9701,9 +9283,6 @@
       \strng{namehash}{600e1efbc6ffa12adf6e32cba69e8243}
       \strng{fullhash}{183ec86a3955f61b0e8b130a034b43b5}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{10}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Comparison of laboratory and in-flight performance of infared array camera (IRAC) detector arrays on Spitzer Space Telescope}}
       \field{booktitle}{Optical, Infrared, and Millimeter Space Telescopes}
       \field{month}{10}
@@ -9763,9 +9342,6 @@
       \strng{namehash}{0e5faaf7e7b0bf5f9a1eb0b1431a1774}
       \strng{fullhash}{0e5faaf7e7b0bf5f9a1eb0b1431a1774}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The Spitzer Space Telescope M33 Project: First Epoch Images}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#204}
       \field{month}{05}
@@ -9793,9 +9369,6 @@
       \strng{namehash}{0eb93e7a657751950b2db1c47b723033}
       \strng{fullhash}{0eb93e7a657751950b2db1c47b723033}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Morphologies of Mid-Infrared Galaxies}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{12}
@@ -9866,10 +9439,8 @@
       \strng{namehash}{ba657903357de0b8ebf9c27891d9d8d2}
       \strng{fullhash}{cac87aeea3af19981c0aa241985f84ea}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Submillimeter Detections of Spitzer Space Telescope Galaxy Populations}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJS}
       \field{month}{09}
       \field{title}{{Submillimeter Detections of Spitzer Space Telescope Galaxy Populations}}
@@ -9924,9 +9495,6 @@
       \strng{namehash}{6375705df898ecbb6be46acbfe68e2e3}
       \strng{fullhash}{6375705df898ecbb6be46acbfe68e2e3}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Mid-Infrared Selection of Active Galaxies}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{12}
@@ -9989,9 +9557,6 @@
       \strng{namehash}{6989365ae432346a3810d54dbcf2ba47}
       \strng{fullhash}{6eea7002ca54f846128de84b61735487}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{A complete census of massive star formation in M31 and M33: The relation between star formation and ISM properties}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{12}
@@ -10045,10 +9610,8 @@
       \strng{namehash}{238dced379ade6096e69c6f2c4056021}
       \strng{fullhash}{238dced379ade6096e69c6f2c4056021}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Infrared Array Camera (IRAC) Observations of M81}}
+      \field{addendum}{(4, 5, 6)}
       \field{journaltitle}{ApJS}
       \field{month}{09}
       \field{title}{{Infrared Array Camera (IRAC) Observations of M81}}
@@ -10119,10 +9682,8 @@
       \strng{namehash}{4c6c0135b3b2b7fdc1fe6df6354f0d52}
       \strng{fullhash}{d656371913d9d584f4b47dda290abd8f}
       \field{sortinit}{2}
-      \field{labelyear}{2004}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Extremely Red Objects in the Lockman Hole}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJS}
       \field{month}{09}
       \field{title}{{Extremely Red Objects in the Lockman Hole}}
@@ -10150,10 +9711,9 @@
       \strng{namehash}{47a09f103194d3d80bfaf75bef908949}
       \strng{fullhash}{47a09f103194d3d80bfaf75bef908949}
       \field{sortinit}{2}
-      \field{labelyear}{2003}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Globular Cluster Systems of Spirals}}
       \field{booktitle}{Extragalactic Globular Cluster Systems}
+      \field{pubstate}{invited review}
       \field{title}{{Globular Cluster Systems of Spirals}}
       \field{year}{2003}
       \field{pages}{143}
@@ -10245,9 +9805,6 @@
       \strng{namehash}{9f4570a9e7f169378bf4ba7bdc1bea61}
       \strng{fullhash}{73535b6094adc4d6ac77f96d702490e5}
       \field{sortinit}{2}
-      \field{labelyear}{2003}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{In-flight Performance of the Infrared Array Camera (IRAC) for SIRTF}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{12}
@@ -10318,9 +9875,6 @@
       \strng{namehash}{d8eea060cb1c4e80e5e070ab85209994}
       \strng{fullhash}{dda1ae29eca8dcfa850d13732eee5352}
       \field{sortinit}{2}
-      \field{labelyear}{2003}
-      \field{labelmonth}{03}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Performance of the infrared array camera (IRAC) for SIRTF during instrument integration and test}}
       \field{booktitle}{IR Space Telescopes and Instruments}
       \field{month}{03}
@@ -10347,8 +9901,6 @@
       \strng{namehash}{60d7c67bee00e42d6ae63f9e6683e0cb}
       \strng{fullhash}{60d7c67bee00e42d6ae63f9e6683e0cb}
       \field{sortinit}{2}
-      \field{labelyear}{2003}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Luminous Extragalactic X-Ray Globular Clusters}}
       \field{booktitle}{IAU Joint Discussion}
       \field{title}{{Luminous Extragalactic X-Ray Globular Clusters}}
@@ -10372,9 +9924,6 @@
       \strng{namehash}{ee9bec1befd626531f996f7bfa140e6a}
       \strng{fullhash}{ee9bec1befd626531f996f7bfa140e6a}
       \field{sortinit}{2}
-      \field{labelyear}{2003}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Optical Identification of the X-ray Point Source Population of M101}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{12}
@@ -10404,10 +9953,8 @@
       \strng{namehash}{dab5a7593a0f18ff6a7ab1feec9d4178}
       \strng{fullhash}{dab5a7593a0f18ff6a7ab1feec9d4178}
       \field{sortinit}{2}
-      \field{labelyear}{2003}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{H-band observations of the Chandra Deep Field South}}
+      \field{addendum}{(3, 4,6)}
       \field{journaltitle}{A\&A}
       \field{month}{05}
       \field{title}{{H-band observations of the Chandra Deep Field South}}
@@ -10474,9 +10021,6 @@
       \strng{namehash}{ed753f0bebef52e60980be11d1d969ae}
       \strng{fullhash}{5d054ec95788a59554e608bd5df187fb}
       \field{sortinit}{2}
-      \field{labelyear}{2003}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Extragalactic Science Results with IRAC}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{12}
@@ -10504,8 +10048,6 @@
       \strng{namehash}{47a09f103194d3d80bfaf75bef908949}
       \strng{fullhash}{47a09f103194d3d80bfaf75bef908949}
       \field{sortinit}{2}
-      \field{labelyear}{2002}
-      \field{datelabelsource}{}
       \field{labeltitle}{{M31 Globular Cluster Metallicities and Ages}}
       \field{booktitle}{Extragalactic Star Clusters}
       \field{series}{IAU Symposium}
@@ -10532,10 +10074,8 @@
       \strng{namehash}{21315b15fb67a0859ff58710c067fa2f}
       \strng{fullhash}{21315b15fb67a0859ff58710c067fa2f}
       \field{sortinit}{2}
-      \field{labelyear}{2002}
-      \field{labelmonth}{04}
-      \field{datelabelsource}{}
       \field{labeltitle}{{M31 Globular Clusters in the Hubble Space Telescope Archive. II. Structural Parameters}}
+      \field{addendum}{(1)}
       \field{journaltitle}{AJ}
       \field{month}{04}
       \field{title}{{M31 Globular Clusters in the Hubble Space Telescope Archive. II. Structural Parameters}}
@@ -10564,10 +10104,8 @@
       \strng{namehash}{502fc3571c12f4eeedeceb2f60efeefc}
       \strng{fullhash}{502fc3571c12f4eeedeceb2f60efeefc}
       \field{sortinit}{2}
-      \field{labelyear}{2002}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The `remarkable' M31 globular cluster 037-B327 revisited}}
+      \field{addendum}{(1)}
       \field{journaltitle}{MNRAS}
       \field{month}{01}
       \field{title}{{The `remarkable' M31 globular cluster 037-B327 revisited}}
@@ -10606,9 +10144,6 @@
       \strng{namehash}{f309e09395831ff4370564d8a064a551}
       \strng{fullhash}{f309e09395831ff4370564d8a064a551}
       \field{sortinit}{2}
-      \field{labelyear}{2002}
-      \field{labelmonth}{04}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Chandra's View of Luminous Supersoft X-Ray Sources in M31}}
       \field{booktitle}{APS Meeting Abstracts}
       \field{month}{04}
@@ -10639,10 +10174,8 @@
       \strng{namehash}{2143521231bf4f753639c4f312a31345}
       \strng{fullhash}{2143521231bf4f753639c4f312a31345}
       \field{sortinit}{2}
-      \field{labelyear}{2002}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Bright X-Ray Sources in M31 Globular Clusters}}
+      \field{addendum}{(4, 5)}
       \field{journaltitle}{ApJ}
       \field{month}{05}
       \field{title}{{Bright X-Ray Sources in M31 Globular Clusters}}
@@ -10675,9 +10208,6 @@
       \strng{namehash}{97fffe13d7f008ad7cded5b7fb4f39dc}
       \strng{fullhash}{97fffe13d7f008ad7cded5b7fb4f39dc}
       \field{sortinit}{2}
-      \field{labelyear}{2002}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Globular Cluster X-Ray Sources and Supersoft Sources in NGC 4472 and M87}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{12}
@@ -10712,9 +10242,6 @@
       \strng{namehash}{81d3a7264f9327ddb30d275fdb9ae9fb}
       \strng{fullhash}{81d3a7264f9327ddb30d275fdb9ae9fb}
       \field{sortinit}{2}
-      \field{labelyear}{2002}
-      \field{labelmonth}{04}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Chandra Synoptic Observations of M31}}
       \field{booktitle}{APS Meeting Abstracts}
       \field{month}{04}
@@ -10741,10 +10268,8 @@
       \strng{namehash}{983cd51cbed0778be952774fab779309}
       \strng{fullhash}{983cd51cbed0778be952774fab779309}
       \field{sortinit}{2}
-      \field{labelyear}{2002}
-      \field{labelmonth}{07}
-      \field{datelabelsource}{}
       \field{labeltitle}{{AGB Phase Transition in Globular Clusters: A Tool for Dating Starbursts}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApSS}
       \field{month}{07}
       \field{title}{{AGB Phase Transition in Globular Clusters: A Tool for Dating Starbursts}}
@@ -10769,9 +10294,6 @@
       \strng{namehash}{47a09f103194d3d80bfaf75bef908949}
       \strng{fullhash}{47a09f103194d3d80bfaf75bef908949}
       \field{sortinit}{2}
-      \field{labelyear}{2001}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Up-close and Personal Views of M31 Globular Clusters}}
       \field{booktitle}{Canadian Astronomical Society meeting}
       \field{month}{05}
@@ -10795,9 +10317,6 @@
       \strng{namehash}{5d68c48d3d6ec0e16769970d07ba18fe}
       \strng{fullhash}{5d68c48d3d6ec0e16769970d07ba18fe}
       \field{sortinit}{2}
-      \field{labelyear}{2001}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{An Optical/Near-Infrared Survey of the Lockman Hole}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{12}
@@ -10820,10 +10339,8 @@
       \strng{namehash}{2bca27375c84c77aa3217e726132990e}
       \strng{fullhash}{2bca27375c84c77aa3217e726132990e}
       \field{sortinit}{2}
-      \field{labelyear}{2001}
-      \field{labelmonth}{11}
-      \field{datelabelsource}{}
       \field{labeltitle}{{M31 Globular Clusters in the Hubble Space Telescope Archive. I. Cluster Detection and Completeness}}
+      \field{addendum}{(1)}
       \field{journaltitle}{AJ}
       \field{month}{11}
       \field{title}{{M31 Globular Clusters in the Hubble Space Telescope Archive. I. Cluster Detection and Completeness}}
@@ -10852,10 +10369,8 @@
       \strng{namehash}{7165fe94c97b6097e94103115f07b678}
       \strng{fullhash}{7165fe94c97b6097e94103115f07b678}
       \field{sortinit}{2}
-      \field{labelyear}{2001}
-      \field{labelmonth}{03}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The M31 Globular Cluster Luminosity Function}}
+      \field{addendum}{(1,6)}
       \field{journaltitle}{AJ}
       \field{month}{03}
       \field{title}{{The M31 Globular Cluster Luminosity Function}}
@@ -10895,10 +10410,6 @@
       \strng{namehash}{bb691a3ccfc5104f3d3aff58ace710ca}
       \strng{fullhash}{bb691a3ccfc5104f3d3aff58ace710ca}
       \field{sortinit}{2}
-      \field{extrayear}{1}
-      \field{labelyear}{2001}
-      \field{labelmonth}{11}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Bright X-Ray Sources in M31 Globular Clusters}}
       \field{booktitle}{``New Visions of the X-ray Universe in the XMM-Newton and Chandra Era''}
       \field{month}{11}
@@ -10931,10 +10442,6 @@
       \strng{namehash}{bb691a3ccfc5104f3d3aff58ace710ca}
       \strng{fullhash}{bb691a3ccfc5104f3d3aff58ace710ca}
       \field{sortinit}{2}
-      \field{extrayear}{2}
-      \field{labelyear}{2001}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Bright X-Ray Sources in M31 Globular Clusters}}
       \field{booktitle}{``Two Years of Science with Chandra''}
       \field{month}{09}
@@ -10964,9 +10471,6 @@
       \strng{namehash}{7e17bf5a2e9bb561c8954ce8a430a89e}
       \strng{fullhash}{7e17bf5a2e9bb561c8954ce8a430a89e}
       \field{sortinit}{2}
-      \field{labelyear}{2001}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Chandra Observations of M31* and M31 Transients}}
       \field{booktitle}{Two Years of Science with Chandra}
       \field{month}{09}
@@ -10992,10 +10496,8 @@
       \strng{namehash}{5e9cdb50848f84278e71d076430d5dfd}
       \strng{fullhash}{5e9cdb50848f84278e71d076430d5dfd}
       \field{sortinit}{2}
-      \field{labelyear}{2001}
-      \field{labelmonth}{04}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The AGB phase-transition outside the local group: K-band observations of young star clusters in NGC 7252}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{A\&A}
       \field{month}{04}
       \field{title}{{The AGB phase-transition outside the local group: K-band observations of young star clusters in NGC 7252}}
@@ -11040,9 +10542,6 @@
       \strng{namehash}{5ce236ca49f301fd9a5d8a65ad053bf6}
       \strng{fullhash}{5ce236ca49f301fd9a5d8a65ad053bf6}
       \field{sortinit}{2}
-      \field{labelyear}{2001}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{SQIID Imaging of the M 33 Core}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#198}
       \field{month}{05}
@@ -11063,9 +10562,6 @@
       \strng{namehash}{47a09f103194d3d80bfaf75bef908949}
       \strng{fullhash}{47a09f103194d3d80bfaf75bef908949}
       \field{sortinit}{2}
-      \field{labelyear}{2000}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Globular cluster ages and the formation of M31}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{12}
@@ -11088,10 +10584,8 @@
       \strng{namehash}{2bca27375c84c77aa3217e726132990e}
       \strng{fullhash}{2bca27375c84c77aa3217e726132990e}
       \field{sortinit}{2}
-      \field{labelyear}{2000}
-      \field{labelmonth}{03}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Testing Population Synthesis Models with Globular Cluster Colors}}
+      \field{addendum}{(1,6)}
       \field{journaltitle}{ApJL}
       \field{month}{03}
       \field{title}{{Testing Population Synthesis Models with Globular Cluster Colors}}
@@ -11126,10 +10620,8 @@
       \strng{namehash}{0077e89ecefd1a795868814c1bddd507}
       \strng{fullhash}{0077e89ecefd1a795868814c1bddd507}
       \field{sortinit}{2}
-      \field{labelyear}{2000}
-      \field{labelmonth}{02}
-      \field{datelabelsource}{}
       \field{labeltitle}{{M31 Globular Clusters: Colors and Metallicities}}
+      \field{addendum}{(1,6)}
       \field{journaltitle}{AJ}
       \field{month}{02}
       \field{title}{{M31 Globular Clusters: Colors and Metallicities}}
@@ -11159,9 +10651,6 @@
       \strng{namehash}{caf7a7e4de0c326f6d97bb7b0065cf7b}
       \strng{fullhash}{caf7a7e4de0c326f6d97bb7b0065cf7b}
       \field{sortinit}{2}
-      \field{labelyear}{2000}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Testing Population Synthesis Models With Globular Cluster Colors}}
       \field{booktitle}{``The Evolution of Galaxies: 1. Observational Clues''}
       \field{month}{05}
@@ -11186,12 +10675,10 @@
       \strng{namehash}{4d3365f017d9019e27f7ce1948161941}
       \strng{fullhash}{4d3365f017d9019e27f7ce1948161941}
       \field{sortinit}{2}
-      \field{labelyear}{2000}
-      \field{labelmonth}{08}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Radial Variation in the M31 Globular Cluster Luminosity Function}}
       \field{booktitle}{``Victoria Conference on Computational Cosmology''}
       \field{month}{08}
+      \field{pubstate}{contributed talk}
       \field{title}{{Radial Variation in the M31 Globular Cluster Luminosity Function}}
       \field{year}{2000}
       \keyw{unref}
@@ -11212,10 +10699,8 @@
       \strng{namehash}{7cc8aadfa9fedbf7f0d09db2869b1f9e}
       \strng{fullhash}{7cc8aadfa9fedbf7f0d09db2869b1f9e}
       \field{sortinit}{2}
-      \field{labelyear}{2000}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The elliptical galaxy formerly known as the Local Group: merging the globular cluster systems}}
+      \field{addendum}{(4, 5, 6)}
       \field{journaltitle}{A\&A}
       \field{month}{06}
       \field{title}{{The elliptical galaxy formerly known as the Local Group: merging the globular cluster systems}}
@@ -11247,9 +10732,6 @@
       \strng{namehash}{d2861ed48e58a836a8ad80b10a16db51}
       \strng{fullhash}{d2861ed48e58a836a8ad80b10a16db51}
       \field{sortinit}{1}
-      \field{labelyear}{1999}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Colors and Metallicities of M31 Globular Clusters}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts \#194}
       \field{month}{05}
@@ -11352,10 +10834,8 @@
       \strng{namehash}{2dd29a21468add8cb58183d1960270e2}
       \strng{fullhash}{5b621d174357d45ae0419481ec65feb6}
       \field{sortinit}{1}
-      \field{labelyear}{1999}
-      \field{labelmonth}{11}
-      \field{datelabelsource}{}
       \field{labeltitle}{{The Type IA Supernova 1998BU in M96 and the Hubble Constant}}
+      \field{addendum}{(5, 6)}
       \field{journaltitle}{ApJS}
       \field{month}{11}
       \field{title}{{The Type IA Supernova 1998BU in M96 and the Hubble Constant}}
@@ -11382,10 +10862,8 @@
       \strng{namehash}{2bca27375c84c77aa3217e726132990e}
       \strng{fullhash}{2bca27375c84c77aa3217e726132990e}
       \field{sortinit}{1}
-      \field{labelyear}{1998}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Kinematics of the Hercules supercluster}}
+      \field{addendum}{(1,6)}
       \field{journaltitle}{AJ}
       \field{month}{01}
       \field{title}{{Kinematics of the Hercules supercluster}}
@@ -11415,9 +10893,6 @@
       \strng{namehash}{caf7a7e4de0c326f6d97bb7b0065cf7b}
       \strng{fullhash}{caf7a7e4de0c326f6d97bb7b0065cf7b}
       \field{sortinit}{1}
-      \field{labelyear}{1997}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Kinematics of the Hercules Supercluster}}
       \field{booktitle}{``Clusters of Galaxies at Low and High Redshifts''}
       \field{month}{05}

@@ -3,14 +3,12 @@
 %% modification of original file by Rob J Hyndman available at http://robjhyndman.com/research/cv.sty
 %% This file may be modified, copied and redistributed without any further permission.
 %% However, if you modify it, please add a note indicating it is a modification of the original.
-
-
-
 \usepackage{paralist,ragged2e,datetime}
 \usepackage{hyperref,fancyhdr,enumitem,color}
 \usepackage[text={7.5in,9.5in},centering]{geometry}
 \usepackage[compact,small,sf,bf]{titlesec}
 \usepackage{lastpage}
+\usepackage{tabularx, etoolbox}
 
 \RaggedRight
 \sloppy
@@ -21,8 +19,11 @@
 \rhead{\sf\thepage/\pageref{LastPage}}
 \cfoot{}
 
-
-
+% annotate publications, or not
+\newtoggle{annotate}
+\DeclareOption{annotate}{\toggletrue{annotate}}
+\DeclareOption{noannotate}{\togglefalse{annotate}}
+\ProcessOptions\relax 
 
 % Date format
 \newdateformat{rjh}{\monthname~\THEYEAR}
@@ -68,8 +69,11 @@
 
 % Bibliography formatting
 % NB: printroles=true prints {\it Role: {#addendum}} at end of article entries
-\usepackage[sorting=ydnt,bibstyle=astro-pb,defernumbers=true,maxnames=20,articletitle=true,printroles=true, uniquename=init,dashed=false,doi=true,isbn=false,eprint=false,backend=biber]{biblatex}
-
+\iftoggle{annotate}{%
+\usepackage[sorting=ydnt,bibstyle=astro-pb,defernumbers=true,maxnames=20,articletitle=true,printroles=true,uniquename=init,dashed=false,doi=true,isbn=false,eprint=false,backend=biber]{biblatex}  % using paper
+}{%
+\usepackage[sorting=ydnt,bibstyle=astro-pb,defernumbers=true,maxnames=20,articletitle=true,printroles=false,uniquename=init,dashed=false,doi=true,isbn=false,eprint=false,backend=biber]{biblatex}  
+}
 
 % formatting things that are not yet working:
 %\DeclareFieldFormat[article]{journal}{\mkbibnorm{#1}} % no italics
@@ -179,6 +183,16 @@
 \newenvironment{publications}{\section{\LARGE Publications}\label{papersstart}
 \textbf{Author names in bold are Western University trainees.} 
 {\tt DOIs are linked to papers.}
+
+\iftoggle{annotate}{
+Key to PB contributions:
+\begin{enumerate}
+\item performed majority of data analysis and manuscript writing\item supervised trainee research\item substantial contributions to manuscript writing\item substantial contributions to data analysis
+\item recommendations for analysis and/or editorial contributions to manuscript writing\item contributed data and/or participated in observing proposal preparation
+\item contributed software
+\end{enumerate}
+}
+
 \vspace*{0.2cm}
 \titlespacing{\section}{0pt}{1.5ex}{1ex}\itemsep=0.00cm
 }{\label{papersend}\addtocounter{sumpapers}{-1}\refstepcounter{sumpapers}\label{sumpapers}}

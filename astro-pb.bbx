@@ -94,8 +94,8 @@
 \DeclareFieldFormat[article]{journaltitle}{#1}
 \DeclareFieldFormat[article]{year}{#1}
 \DeclareFieldFormat[article]{title}{\mkbibquote{#1\addcomma}}
-\DeclareFieldFormat[article]{addendum}{\ \mkbibemph{Role: {#1}}}
-
+\DeclareFieldFormat[article, inproceedings]{addendum}{\ \mkbibemph{Role: {#1}}}
+\DeclareFieldFormat[inproceedings]{pubstate}{\ \mkbibbrackets{#1}}
 
 % Simple modifications to punctuation, etc.
 \renewcommand*{\finalnamedelim}{%
@@ -117,9 +117,9 @@
 % Bibliography strings
 \DefineBibliographyStrings{english}{%
   chapter   = Chapter            ,
-  editor    = Ed\adddot          ,
-  editors   = Eds\adddot         ,
-  in        = In                 ,
+  editor    = ed\adddot          ,
+  editors   = eds\adddot         ,
+  in        = in:                 ,
   page      = p                  ,
   pages     = pp                 ,
   patentus  = US Patent          ,
@@ -137,7 +137,8 @@
       \adddot
     }%
 }
-  
+
+
 \renewbibmacro*{date}{%
   \iffieldundef{year}
     {}
@@ -593,13 +594,13 @@
     {}%
   \newunit\newblock
   \usebibmacro{doi+eprint+url}%
-  \newunit\newblock
-  \usebibmacro{addendum+pubstate}%
+ \newunit\newblock
   \setunit{\bibpagerefpunct}\newblock
   \usebibmacro{pageref}%
-  \newunit\newblock
-  \usebibmacro{related}%
   \usebibmacro{finentry}%
+  \newunit\newblock
+  \usebibmacro{addendum+pubstate}%
+  \usebibmacro{related}%
 }
 
 \DeclareBibliographyDriver{manual}{%

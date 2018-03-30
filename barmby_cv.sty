@@ -67,6 +67,14 @@
 \setlist{itemsep=1pt}
 \setdescription{labelwidth=1.2cm,leftmargin=1.5cm,labelindent=1.5cm,font=\rm}
 
+% include annotations in main CV text (used for grants section)
+\iftoggle{annotate}{%
+\newcommand{\grantnote}[1]{\ {\em {#1}}}
+}{%
+\newcommand{\grantnote}{}
+}
+
+
 % Bibliography formatting
 % NB: printroles=true prints {\it Role: {#addendum}} at end of article entries
 \iftoggle{annotate}{%
@@ -189,8 +197,12 @@
 Key to PB roles in publications:
 \renewcommand\labelenumi{(\theenumi)}
 \begin{enumerate}
-\item performed majority of data analysis and manuscript writing\item supervised trainee research\item substantial contributions to manuscript writing\item substantial contributions to data analysis
-\item recommendations for analysis and/or editorial contributions to manuscript writing\item contributed data and/or participated in observing proposal preparation
+\item performed majority of data analysis and manuscript writing
+\item supervised trainee research
+\item substantial contributions to manuscript writing
+\item substantial contributions to data analysis
+\item recommendations for analysis and/or editorial contributions to manuscript writing
+\item contributed data and/or participated in observing proposal preparation
 \item contributed software
 \end{enumerate}
 }

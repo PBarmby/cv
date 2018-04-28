@@ -19,6 +19,33 @@
 
 \refsection{0}
   \sortlist{entry}{ydnt}
+    \entry{2018arnason}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=6e30aab75edb5302e4c51e51089ecca6}{{\mkbibbold{{Arnason},\bibnamedelimb R.\bibnamedelimi M.}}}{{\mkbibbold{{Arnason}, R. M.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=771b31997aba08d2c8722233bb6492f0}{{Bahramian}}{B\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=88cf0b5a47201e8b0337956041b55e96}{{Maccarone}}{M\bibinitperiod}{T.\bibnamedelimi J.}{T\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=740cb5b7da4edd144ebe98a5c7ac8929}{{Zepf}}{Z\bibinitperiod}{S.\bibnamedelimi E.}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=6e30aab75edb5302e4c51e51089ecca6}{{\mkbibbold{{Arnason},\bibnamedelimb R.\bibnamedelimi M.}}}{{\mkbibbold{{Arnason}, R. M.}}\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=771b31997aba08d2c8722233bb6492f0}{{Bahramian}}{B\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=88cf0b5a47201e8b0337956041b55e96}{{Maccarone}}{M\bibinitperiod}{T.\bibnamedelimi J.}{T\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=740cb5b7da4edd144ebe98a5c7ac8929}{{Zepf}}{Z\bibinitperiod}{S.\bibnamedelimi E.}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b51efc16f794c22e2dd92f6204fdaf14}
+      \strng{fullhash}{b51efc16f794c22e2dd92f6204fdaf14}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Multiwavelength survey of X--ray sources in Sculptor Dwarf Spheroidal Galaxy}}
+      \field{addendum}{(2, 3, 6)}
+      \field{journaltitle}{MNRAS}
+      \field{month}{04}
+      \field{title}{{Multiwavelength survey of X--ray sources in Sculptor Dwarf Spheroidal Galaxy}}
+      \field{year}{2018}
+      \field{pages}{submitted}
+      \keyw{submit,ar18}
+    \endentry
     \entry{2018arXiv180202829B}{article}{}
       \name{labelname}{59}{}{%
         {{uniquename=0,hash=13da7443425ccedd70b88da6e58ececb}{{Boselli}}{B\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
@@ -158,7 +185,7 @@
       \endverb
       \keyw{ref,ar17}
     \endentry
-    \entry{2018arXiv180102634T}{article}{}
+    \entry{2018astropy}{article}{}
       \true{morelabelname}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=0b8a281ba5aedd607d4c0b88ae7bec34}{{The\bibnamedelimb Astropy\bibnamedelimb Collaboration}}{T\bibinitperiod}{}{}{}{}{}{}}%
@@ -174,11 +201,11 @@
       \field{addendum}{(5, 7)}
       \field{eprintclass}{astro-ph.IM}
       \field{eprinttype}{arXiv}
-      \field{journaltitle}{ArXiv e-prints}
+      \field{journaltitle}{ApJ}
       \field{month}{01}
       \field{title}{{The Astropy Project: Building an inclusive, open-science project and status of the v2.0 core package}}
       \field{year}{2018}
-      \field{pages}{submitted (arxiv:1801.02634)}
+      \field{pages}{in press (arxiv:1801.02634)}
       \verb{eprint}
       \verb 1801.02634
       \endverb
@@ -236,7 +263,7 @@
       \field{year}{2017}
       \keyw{unref}
     \endentry
-    \entry{barmby17b}{inproceedings}{}
+    \entry{barmby17c}{inproceedings}{}
       \name{labelname}{5}{}{%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=1d5e63afaa460dc04aa4e8d5464b2576}{{\mkbibbold{{Arnason},\bibnamedelimb R.}}}{{\mkbibbold{{Arnason}, R.}}\bibinitperiod}{}{}{}{}{}{}}%
@@ -264,6 +291,29 @@
       \field{title}{{Andromeda IR-X}}
       \field{year}{2017}
       \keyw{unref,ar17}
+    \endentry
+    \entry{barmby17b}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9f96e3dbbb799846ea26706627c87742}{{\mkbibbold{{Kiar},\bibnamedelimb A.}}}{{\mkbibbold{{Kiar}, A.}}\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9f96e3dbbb799846ea26706627c87742}{{\mkbibbold{{Kiar},\bibnamedelimb A.}}}{{\mkbibbold{{Kiar}, A.}}\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Edmonton}%
+      }
+      \strng{namehash}{088e26178178b89c4d432dc3c15d3e0f}
+      \strng{fullhash}{088e26178178b89c4d432dc3c15d3e0f}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Deconstructing M83}}
+      \field{booktitle}{Canadian Astronomical Society meeting}
+      \field{month}{06}
+      \field{pubstate}{poster}
+      \field{title}{{Deconstructing M83}}
+      \field{year}{2017}
+      \keyw{unref,ar16}
     \endentry
     \entry{2017kiar}{article}{}
       \name{labelname}{3}{}{%
@@ -336,7 +386,7 @@
       \strng{fullhash}{6eab5f8372529e3aa08919d047ecc97a}
       \field{sortinit}{2}
       \field{labeltitle}{{The Star Formation Reference Survey III. A multi-wavelength view of dust and star formation in nearby galaxies}}
-      \field{addendum}{(3, 4)}
+      \field{addendum}{(3, 4, 6)}
       \field{journaltitle}{ApJ}
       \field{month}{05}
       \field{title}{{The Star Formation Reference Survey III. A multi-wavelength view of dust and star formation in nearby galaxies}}
@@ -369,14 +419,14 @@
       \name{labelname}{4}{}{%
         {{uniquename=0,hash=1d5e63afaa460dc04aa4e8d5464b2576}{{\mkbibbold{{Arnason},\bibnamedelimb R.}}}{{\mkbibbold{{Arnason}, R.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=ba6224f2a864dd7f08248ebf9eb79d8c}{{Maccarone}}{M\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=4119d363209b37588a123d75b0834ce4}{{Zepf}}{Z\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=ba6224f2a864dd7f08248ebf9eb79d8c}{{Maccarone}}{M\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4119d363209b37588a123d75b0834ce4}{{Zepf}}{Z\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{4}{}{%
         {{uniquename=0,hash=1d5e63afaa460dc04aa4e8d5464b2576}{{\mkbibbold{{Arnason},\bibnamedelimb R.}}}{{\mkbibbold{{Arnason}, R.}}\bibinitperiod}{}{}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=ba6224f2a864dd7f08248ebf9eb79d8c}{{Maccarone}}{M\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=4119d363209b37588a123d75b0834ce4}{{Zepf}}{Z\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=ba6224f2a864dd7f08248ebf9eb79d8c}{{Maccarone}}{M\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4119d363209b37588a123d75b0834ce4}{{Zepf}}{Z\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Winnipeg}%
@@ -802,6 +852,7 @@
       \field{labeltitle}{{The M31 nucleus in the mid-infrared}}
       \field{booktitle}{American Astronomical Society Meeting Abstracts}
       \field{month}{01}
+      \field{pubstate}{contributed talk}
       \field{title}{{The M31 nucleus in the mid-infrared}}
       \field{volume}{225}
       \field{year}{2015}

@@ -9,3 +9,5 @@ old\ versions/
 *.out
 *.run.xml
 tests/
+related_docs/*
+tests/*

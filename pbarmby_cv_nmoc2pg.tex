@@ -1,0 +1,64 @@
+\documentclass[12pt]{article}
+\usepackage[annotate]{barmby_cv}
+
+
+\newcounter{rowcnt}
+\setcounter{rowcnt}{1}
+\newcommand\rownum{{\therowcnt.\ }\refstepcounter{rowcnt}}
+
+\AtEndEnvironment{tabularx}{\setcounter{rowcnt}{1}}
+
+\name{Pauline Barmby}
+
+\info{
+Faculty of Science/Department of Physics \& Astronomy\\
+Western University\\
+London, ON N6A 5B9 Canada\\
+pbarmby@uwo.ca\\
+Phone: (519) 661-2111 ext. 83041\\ 
+\\
+ORCID: \url{https://orcid.org/0000-0003-2767-0090}\\
+GitHub: \url{https://github.com/PBarmby}\\
+Group website: \url{https:/nearby-galaxies.github.io}
+}
+
+\bibliography{barmby_ref,barmby_unref}
+
+\begin{document}
+\maketitle
+
+\section{Education}
+\begin{tabularx}{\textwidth}{lXr}
+PhD, Astronomy & Harvard University & 2001\\
+%& Thesis: ``Globular Clusters in the Andromeda Galaxy'', advisor: J.~Huchra&\\
+AM, Astronomy & Harvard University & 1998\\
+BSc (Hons),  Physics \& Astronomy & University of British Columbia&1995\\
+\end{tabularx}
+
+\section{Experience} 
+\input{pos}
+
+\section{Research Interests}
+\input{research_interests}
+
+\section{Research Grants}
+\input{grants}
+
+\section{Professional Activities}
+\input{western_svc_short}
+
+\subsection{Professional service}
+\input{prof_svc_short}
+
+\subsection{Peer review}
+\input{peer_review_short}
+
+\section{Trainee supervision}
+3 postdocs, 4 PhD students, 8 MSc students, 10 BSc students since 2007.
+
+\section{Bibliometrics}
+NASA ADS: 11297 citations, h-index 45, i10-index 95.\\
+%Google Scholar (all) 11483 citations, h-index 51, i10-index 110
+Google Scholar (since 2013): 4665 citations, h-index 30, i10-index 65
+
+\end{document}

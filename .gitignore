@@ -8,3 +8,4 @@ old\ versions/
 *.bcf
 *.out
 *.run.xml
+tests/

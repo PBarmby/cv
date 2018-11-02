@@ -236,36 +236,40 @@
     \endentry
     \entry{2018mahajan}{article}{}
       \name{labelname}{8}{}{%
-        {{uniquename=1,hash=afeb550f950f90b2846025ca3a22107d}{{Mahajan}}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=10950f5008341189b9751397f2e2818d}{{Ashby}}{A\bibinitperiod}{M.L.N.}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=839689f52a57eaadb0155ccfd739c2c6}{{Willner}}{W\bibinitperiod}{S.P.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=520c792d6ca171915dba812ab9f2d01d}{{Mahajan}}{M\bibinitperiod}{Smriti}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=92cacc667f704d45d8f780a129a2db2e}{{Ashby}}{A\bibinitperiod}{M.\bibnamedelimi L.\bibnamedelimi N.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=174ae8a12ae8a5c098d84011669bb81b}{{Willner}}{W\bibinitperiod}{S.\bibnamedelimi P.}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=1c814ca74bbcb2d998f5d1fd41c5cdaf}{{Fazio}}{F\bibinitperiod}{G.G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4ad78af5fd60d99cbeda77bcfdca77e1}{{Fazio}}{F\bibinitperiod}{G.\bibnamedelimi G.}{G\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=f956697dc7832e75df81c59e5dd1bd64}{{Maragkoudakis}}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=c901b01d660a2859df99e0026b00f1b2}{{Raychaudhury}}{R\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=f6314b40942b073c66b85f85b7fa1822}{{Zezas}}{Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{8}{}{%
-        {{uniquename=1,hash=afeb550f950f90b2846025ca3a22107d}{{Mahajan}}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=10950f5008341189b9751397f2e2818d}{{Ashby}}{A\bibinitperiod}{M.L.N.}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=839689f52a57eaadb0155ccfd739c2c6}{{Willner}}{W\bibinitperiod}{S.P.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=520c792d6ca171915dba812ab9f2d01d}{{Mahajan}}{M\bibinitperiod}{Smriti}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=92cacc667f704d45d8f780a129a2db2e}{{Ashby}}{A\bibinitperiod}{M.\bibnamedelimi L.\bibnamedelimi N.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=174ae8a12ae8a5c098d84011669bb81b}{{Willner}}{W\bibinitperiod}{S.\bibnamedelimi P.}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=47a09f103194d3d80bfaf75bef908949}{{Barmby}}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=1c814ca74bbcb2d998f5d1fd41c5cdaf}{{Fazio}}{F\bibinitperiod}{G.G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4ad78af5fd60d99cbeda77bcfdca77e1}{{Fazio}}{F\bibinitperiod}{G.\bibnamedelimi G.}{G\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=f956697dc7832e75df81c59e5dd1bd64}{{Maragkoudakis}}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=c901b01d660a2859df99e0026b00f1b2}{{Raychaudhury}}{R\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=f6314b40942b073c66b85f85b7fa1822}{{Zezas}}{Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{4f3744be290f8b7fffacd8bee1563515}
-      \strng{fullhash}{4f3744be290f8b7fffacd8bee1563515}
+      \strng{namehash}{0dbede27119a31e63c246b6db7d9e307}
+      \strng{fullhash}{0dbede27119a31e63c246b6db7d9e307}
       \field{sortinit}{2}
-      \field{labeltitle}{{The Star Formation Reference Survey III. A multi-wavelength view of dust and star formation in nearby galaxies}}
+      \field{labeltitle}{{The Star Formation Reference Survey III: A Multi-wavelength View of Star Formation in Nearby Galaxies}}
       \field{addendum}{(3, 4, 6)}
+      \field{eprintclass}{astro-ph.GA}
       \field{journaltitle}{MNRAS}
-      \field{month}{09}
-      \field{title}{{The Star Formation Reference Survey III. A multi-wavelength view of dust and star formation in nearby galaxies}}
+      \field{month}{10}
+      \field{title}{{The Star Formation Reference Survey III: A Multi-wavelength View of Star Formation in Nearby Galaxies}}
       \field{year}{2018}
-      \field{pages}{in press}
-      \keyw{ref,ar16}
+      \field{pages}{2587}
+      \verb{doi}
+      \verb 10.1093/mnras/sty2699
+      \endverb
+      \keyw{galaxies: star formation,infrared: galaxies,radio continuum: galaxies,ultraviolet: galaxies,Astrophysics - Astrophysics of Galaxies,Astrophysics - High Energy Astrophysical Phenomena}
     \endentry
     \entry{2018mcconnachie}{article}{}
       \name{labelname}{30}{}{%
@@ -338,11 +342,10 @@
       \field{labeltitle}{{The large-scale structure of the halo of the Andromeda galaxy II. Hierarchical structure in the Pan-Andromeda Archaeological Survey}}
       \field{addendum}{(6)}
       \field{journaltitle}{ApJ}
-      \field{month}{07}
       \field{title}{{The large-scale structure of the halo of the Andromeda galaxy II. Hierarchical structure in the Pan-Andromeda Archaeological Survey}}
       \field{year}{2018}
-      \field{pages}{submitted}
-      \keyw{submit,ar19}
+      \field{pages}{in press\bibrangessep arXiv:1810.08234}
+      \keyw{ref,ar19}
     \endentry
     \entry{2018rahmani}{article}{}
       \name{labelname}{3}{}{%
@@ -395,7 +398,6 @@
       \verb 10.1093/mnras/sty2499
       \endverb
       \keyw{ref,ar17}
-      \warn{\item Name in key '2018saintonge' is empty (probably consecutive 'and'): skipping name}
     \endentry
     \entry{2018vulic}{article}{}
       \name{labelname}{3}{}{%
